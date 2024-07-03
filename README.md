@@ -17,6 +17,11 @@
 - Models in Python
 - Models in C++
 - Usage
+## Accuracy
+### using c++
+![image](https://github.com/zainmo11/Data-scientist-salary/assets/89034348/6c2e6200-f769-4e0e-be91-1306fa214528)
+### using python
+![image](https://github.com/zainmo11/Data-scientist-salary/assets/89034348/bf114036-5b14-4573-922e-172b6726762a)
 
 ## Dataset
 The dataset contains various features related to data science jobs. The initial dataset was cleaned to remove unwanted columns and prepare it for analysis and modeling.
