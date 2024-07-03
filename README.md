@@ -1,6 +1,7 @@
 # Data Scientist Salary Prediction
 - This project aims to predict the salary of data scientists using machine learning models implemented in both C++ and Python. The dataset used for this project has been cleaned for data analysis and modeling.
 
+https://www.kaggle.com/datasets/nikhilbhathi/data-scientist-salary-us-glassdoor/
 ## Dependencies
 ### C++
 - mlpack
