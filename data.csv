@@ -1,0 +1,721 @@
+3.8,Albuquerque,Goleta,501 - 1000 ,1973,Company - Private,Aerospace & Defense,Aerospace & Defense,$50 to $100 million (USD),0,0,NM,48,1,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,data scientist,na,M
+3.4,Linthicum,Baltimore,10000+ ,1984,Other Organization,Health Care Services & Hospitals,Health Care,$2 to $5 billion (USD),0,0,MD,37,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,M
+4.8,Clearwater,Clearwater,501 - 1000 ,2010,Company - Private,Security Services,Business Services,$100 to $500 million (USD),0,0,FL,11,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,data scientist,na,M
+3.8,Richland,Richland,1001 - 5000 ,1965,Government,Energy,Oil& Gas& Energy & Utilities,$500 million to $1 billion (USD),0,0,WA,56,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,na
+2.9,New York,New York,51 - 200 ,1998,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable,0,0,NY,23,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,data scientist,na,na
+3.4,Dallas,Dallas,201 - 500 ,2000,Company - Public,Real Estate,Real Estate,$1 to $2 billion (USD),0,0,TX,21,1,0,1,1,1,0,0,0,0,0,0,0,1,0,1,0,data scientist,na,na
+4.1,Baltimore,Baltimore,501 - 1000 ,2008,Company - Private,Banks & Credit Unions,Finance,Unknown / Non-Applicable,0,0,MD,13,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,na
+3.8,San Jose,Seattle,201 - 500 ,2005,Company - Private,Consulting,Business Services,$25 to $50 million (USD),0,0,CA,16,1,1,1,1,1,0,0,1,0,1,0,0,0,0,0,0,data scientist,na,M
+3.3,Rochester,Rochester,10000+ ,2014,Hospital,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),0,0,NY,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,P
+4.6,New York,New York,51 - 200 ,2009,Company - Private,Internet,Information Technology,$100 to $500 million (USD),0,0,NY,12,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,na
+3.5,San Jose,San Francisco,501 - 1000 ,2011,Company - Private,Other Retail Stores,Retail,$1 to $2 billion (USD),0,0,CA,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,na
+4.1,Chantilly,Herndon,5001 - 10000 ,1968,Company - Public,Research & Development,Business Services,$1 to $2 billion (USD),0,0,VA,53,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,data scientist,na,na
+3.2,Plano,Bentonville,10000+ ,1962,Company - Public,Department& Clothing& & Shoe Stores,Retail,$10+ billion (USD),0,0,TX,59,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,data scientist,na,M
+4.1,Seattle,Seattle,201 - 500 ,2012,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable,0,0,WA,9,1,1,1,1,1,0,0,0,0,0,0,1,1,0,0,0,analyst,na,na
+3.7,Cambridge,OSAKA,10000+ ,1781,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),0,0,MA,240,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,data scientist,na,M
+3.6,Newark,Newark,1001 - 5000 ,1995,Subsidiary or Business Segment,Motion Picture Production & Distribution,Media,Unknown / Non-Applicable,0,0,NJ,26,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,data engineer,na,na
+3.9,Cambridge,Cambridge,51 - 200 ,2011,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $5 million (USD),0,0,MA,10,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,P
+4.3,Mountain View,Mountain View,201 - 500 ,2011,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,0,0,CA,10,1,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,data scientist,na,M
+4.2,San Francisco,San Francisco,51 - 200 ,2010,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,0,0,CA,11,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,na
+4,Denver,Denver,501 - 1000 ,1915,Nonprofit Organization,Insurance Carriers,Insurance,$500 million to $1 billion (USD),0,0,CO,106,1,0,0,1,1,0,1,1,1,1,0,0,0,0,0,0,data scientist,na,M
+3.2,Seattle,Seattle,201 - 500 ,2012,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,0,0,WA,9,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,M
+3.9,Dallas,Mountain View,201 - 500 ,2013,Company - Private,Insurance Agencies & Brokerages,Insurance,Unknown / Non-Applicable,0,0,TX,8,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,sr,P
+3.8,Chicago,New Plymouth,501 - 1000 ,1995,Company - Private,Logistics & Supply Chain,Transportation & Logistics,Unknown / Non-Applicable,0,0,IL,26,1,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,data scientist,na,M
+4.3,Louisville,Peachtree City,51 - 200 ,1935,Nonprofit Organization,Logistics & Supply Chain,Transportation & Logistics,$10 to $25 million (USD),0,0,KY,86,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,data scientist,na,M
+4,Herndon,Mc Lean,501 - 1000 ,2012,Company - Private,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),0,0,VA,9,1,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,data scientist,na,na
+4,Cambridge,New York,10000+ ,1849,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),0,0,MA,172,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,na
+3.5,Hillsboro,San Jose,1001 - 5000 ,1952,Company - Private,Banks & Credit Unions,Finance,$100 to $500 million (USD),0,0,OR,69,1,1,1,1,1,0,1,0,1,1,0,1,0,0,0,0,data scientist,na,na
+3.7,Worcester,Worcester,5001 - 10000 ,1852,Company - Public,Insurance Carriers,Insurance,$5 to $10 billion (USD),0,0,MA,169,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,analyst,na,na
+4,Groton,New York,10000+ ,1849,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),0,0,CT,172,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,M
+4.8,Clearwater,Clearwater,501 - 1000 ,2010,Company - Private,Security Services,Business Services,$100 to $500 million (USD),0,0,FL,11,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,data scientist,na,M
+3.8,Richland,Richland,1001 - 5000 ,1965,Government,Energy,Oil& Gas& Energy & Utilities,$500 million to $1 billion (USD),0,0,WA,56,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,na
+3.6,Detroit,Detroit,1001 - 5000 ,1997,Company - Private,Real Estate,Real Estate,$500 million to $1 billion (USD),0,0,MI,24,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,data scientist,na,M
+3.8,Cambridge,Basel,10000+ ,1996,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),0,0,MA,25,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,data scientist,na,na
+3.8,Sunnyvale,Sunnyvale,5001 - 10000 ,1996,Company - Public,Telecommunications Services,Telecommunications,$2 to $5 billion (USD),0,0,CA,25,1,1,0,1,1,0,1,0,1,1,0,0,0,0,1,0,data scientist,na,M
+4.7,Ipswich,Ipswich,201 - 500 ,1974,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,0,0,MA,47,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,na
+4.2,San Jose,Chicago,201 - 500 ,2008,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,0,0,CA,13,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,analyst,na,na
+3.5,Redlands,Redlands,1001 - 5000 ,1969,Company - Private,Computer Hardware & Software,Information Technology,$1 to $2 billion (USD),0,0,CA,52,1,1,1,0,0,0,0,0,0,0,1,1,0,0,1,0,data scientist,na,M
+4.7,Woburn,Woburn,201 - 500 ,2010,Company - Private,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),0,0,MA,11,1,1,0,1,1,0,0,1,1,1,1,0,0,0,0,0,data scientist,na,P
+3.5,Fremont,Gottingen,5001 - 10000 ,1870,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $2 billion (USD),0,0,CA,151,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,sr,M
+3.5,Long Beach,Long Beach,201 - 500 ,1985,Company - Private,Insurance Carriers,Insurance,$100 to $500 million (USD),0,0,NY,36,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,data engineer,na,M
+4.2,San Francisco,San Francisco,201 - 500 ,2008,Company - Private,IT Services,Information Technology,$50 to $100 million (USD),0,0,CA,13,1,0,1,1,1,0,0,0,0,0,0,1,0,0,1,0,analyst,na,na
+4.2,San Francisco,San Francisco,51 - 200 ,2010,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,0,0,CA,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,M
+3.4,Allendale,Shelton,5001 - 10000 ,2015,Company - Public,Consumer Products Manufacturing,Manufacturing,$2 to $5 billion (USD),0,0,NJ,6,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,M
+4.3,Chicago,Chicago,1001 - 5000 ,1993,Company - Public,Real Estate,Real Estate,$2 to $5 billion (USD),0,0,IL,28,1,1,0,1,1,0,0,0,1,0,1,1,1,0,0,0,data scientist,sr,M
+5,Washington,Alexandria,unknown,2007,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,0,1,DC,53.8,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,na
+3.7,Bellevue,Foster City,10000+ ,1958,Company - Public,IT Services,Information Technology,$10+ billion (USD),0,0,WA,63,1,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,data scientist,sr,na
+3.1,Longmont,Omaha,5001 - 10000 ,1986,Company - Private,Enterprise Software & Network Solutions,Information Technology,$2 to $5 billion (USD),0,0,CO,35,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,analyst,na,M
+4.7,Beavercreek,Chantilly,501 - 1000 ,1999,Company - Private,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),0,0,OH,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,M
+3.7,Peoria,Deerfield,10000+ ,1925,Company - Public,Industrial Manufacturing,Manufacturing,$10+ billion (USD),0,0,IL,96,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,data scientist,na,na
+3.8,Fort Lauderdale,Fort Lauderdale,501 - 1000 ,1984,Subsidiary or Business Segment,Advertising & Marketing,Business Services,Unknown / Non-Applicable,0,0,FL,37,1,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,data scientist,na,na
+3.3,Boston,Boston,10000+ ,1912,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),0,0,MA,109,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,na
+4.6,Huntsville,Huntsville,1001 - 5000 ,2002,Company - Private,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),0,0,AL,19,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,data scientist,na,na
+3.7,Armonk,Zurich,10000+ ,1863,Company - Public,Insurance Agencies & Brokerages,Insurance,$10+ billion (USD),0,0,NY,158,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,M
+3.7,San Diego,Falls Church,10000+ ,1939,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),0,0,CA,82,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,data scientist,na,na
+3.5,Albuquerque,Gottingen,5001 - 10000 ,1870,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $2 billion (USD),0,0,NM,151,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,M
+4.1,San Francisco,Santa Clara,501 - 1000 ,2012,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,0,0,CA,9,1,1,0,1,0,0,0,0,0,1,0,0,0,1,0,0,data scientist,na,P
+4.7,Saint Louis,Saint Louis,51 - 200 ,2016,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,0,0,MO,5,1,1,0,0,1,0,1,0,1,1,0,0,0,0,0,0,data scientist,na,na
+4.1,Baltimore,Baltimore,501 - 1000 ,2008,Company - Private,Banks & Credit Unions,Finance,Unknown / Non-Applicable,0,0,MD,13,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,na
+3.4,Dallas,Dallas,201 - 500 ,2000,Company - Public,Real Estate,Real Estate,$1 to $2 billion (USD),0,0,TX,21,1,0,1,1,1,0,0,0,0,0,0,0,1,0,1,0,data scientist,na,na
+4.4,Cincinnati,Cincinnati,201 - 500 ,1885,Subsidiary or Business Segment,Metals Brokers,Mining & Metals,Unknown / Non-Applicable,0,0,OH,136,1,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0,data scientist,sr,M
+4.3,New York,New York,201 - 500 ,2011,Company - Private,Consulting,Business Services,$10 to $25 million (USD),0,0,NY,10,1,1,1,0,1,0,0,0,0,0,1,1,0,0,0,0,data scientist,na,na
+3.8,Palo Alto,Palo Alto,501 - 1000 ,2006,Company - Public,Financial Transaction Processing,Finance,$50 to $100 million (USD),0,0,CA,15,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,data scientist,sr,M
+3.8,Richland,Richland,1001 - 5000 ,1965,Government,Energy,Oil& Gas& Energy & Utilities,$500 million to $1 billion (USD),0,0,WA,56,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,data scientist,na,M
+3.8,Coraopolis,Coraopolis,10000+ ,1948,Company - Public,Sporting Goods Stores,Retail,$5 to $10 billion (USD),0,0,PA,73,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,data scientist,na,M
+2.8,Framingham,Framingham,51 - 200 ,2006,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $5 million (USD),0,0,MA,15,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,P
+4.7,Atlanta,Atlanta,51 - 200 ,2003,Company - Private,Computer Hardware & Software,Information Technology,$25 to $50 million (USD),0,0,GA,18,1,0,0,1,1,0,1,1,1,0,0,0,0,0,0,0,data scientist,na,na
+3.1,Boston,Boston,201 - 500 ,1999,Company - Public,Advertising & Marketing,Business Services,$100 to $500 million (USD),0,0,MA,22,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,data scientist,na,na
+3.2,Philadelphia,Chadds Ford,Jan-50,2007,Company - Private,Staffing & Outsourcing,Business Services,$5 to $10 million (USD),0,0,PA,53.8,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,data scientist,na,na
+4,Vancouver,Palo Alto,10000+ ,1939,Company - Public,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,0,0,WA,82,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,M
+4.4,Indianapolis,Pleasanton,Jan-50,2015,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,0,0,IN,6,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,data analitics,na,na
+3.6,Lake Forest,Lake Forest,10000+ ,1927,Company - Public,Wholesale,Business Services,$10+ billion (USD),0,0,IL,94,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,data scientist,na,M
+2.7,Maryland Heights,San Diego,501 - 1000 ,1978,Subsidiary or Business Segment,Research & Development,Business Services,$50 to $100 million (USD),0,0,MO,43,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,P
+3.9,Charlottesville,Reston,501 - 1000 ,2010,Company - Private,IT Services,Information Technology,$100 to $500 million (USD),0,0,VA,11,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,data scientist,sr,M
+3.1,Pittsburgh,Louvain-la-Neuve,1001 - 5000 ,1860,Company - Private,Mining,Mining & Metals,$1 to $2 billion (USD),0,0,PA,161,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,data scientist,na,M
+4,Vancouver,Palo Alto,10000+ ,1939,Company - Public,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,0,0,WA,82,0,1,1,0,1,0,0,0,1,1,0,0,0,0,0,0,data scientist,sr,M
+4.3,Mountain View,Mountain View,201 - 500 ,2011,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,0,0,CA,10,1,1,1,1,0,0,1,0,1,1,1,0,0,0,0,0,data scientist,na,P
+1.9,Cambridge,Cambridge,51 - 200 ,2000,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10 to $25 million (USD),0,0,MA,21,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,M
+3.3,Chantilly,Herndon,1001 - 5000 ,2017,Company - Private,Aerospace & Defense,Aerospace & Defense,$1 to $2 billion (USD),0,0,VA,4,1,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,data scientist,na,na
+4.4,San Jose,Beijing,10000+ ,1995,Company - Private,IT Services,Information Technology,$500 million to $1 billion (USD),0,0,CA,26,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,na
+3.9,San Francisco,San Francisco,51 - 200 ,2016,Company - Private,Health Care Services & Hospitals,Health Care,$1 to $5 million (USD),0,0,CA,5,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,na
+4.7,Harrisburg,Harrisburg,201 - 500 ,1997,Company - Private,Advertising & Marketing,Business Services,$25 to $50 million (USD),0,0,PA,24,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,analyst,jr,na
+4.5,Laurel,Laurel,5001 - 10000 ,1942,Nonprofit Organization,Aerospace & Defense,Aerospace & Defense,$1 to $2 billion (USD),0,0,MD,79,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,na
+4.3,Chicago,Chicago,51 - 200 ,2008,Company - Private,Computer Hardware & Software,Information Technology,$10 to $25 million (USD),0,0,IL,13,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,analyst,na,na
+4,Arlington,Arlington,201 - 500 ,2002,Company - Private,Consulting,Business Services,$50 to $100 million (USD),0,0,VA,19,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,data engineer,na,na
+4.4,Tacoma,Tacoma,501 - 1000 ,1948,Company - Private,Wholesale,Business Services,$100 to $500 million (USD),0,0,WA,73,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,analyst,na,na
+3.2,Plano,Bentonville,10000+ ,1962,Company - Public,Department& Clothing& & Shoe Stores,Retail,$10+ billion (USD),0,0,TX,59,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,data scientist,na,M
+3.8,San Jose,Seattle,201 - 500 ,2005,Company - Private,Consulting,Business Services,$25 to $50 million (USD),0,0,CA,16,1,1,1,1,1,0,0,1,0,1,0,0,0,0,0,0,data scientist,na,M
+4.2,Miami,Miami,501 - 1000 ,2008,Company - Private,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),0,0,FL,13,1,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,data scientist,na,na
+4.5,Huntsville,Chantilly,51 - 200 ,1996,Company - Private,IT Services,Information Technology,$25 to $50 million (USD),0,0,AL,25,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,na,na,na
+3.5,New Orleans,New Orleans,51 - 200 ,1999,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,0,0,LA,22,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,analyst,na,na
+3.5,San Francisco,San Francisco,201 - 500 ,1990,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD),0,0,CA,31,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,sr,M
+3.9,Atlanta,Chicago,5001 - 10000 ,1968,Company - Public,Financial Analytics & Research,Finance,$1 to $2 billion (USD),0,0,GA,53,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,data scientist,na,na
+4.7,Landover,Vienna,51 - 200 ,2003,Company - Private,IT Services,Information Technology,$10 to $25 million (USD),0,0,MD,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data modeler,na,na
+4.2,Patuxent River,Atlanta,1001 - 5000 ,1988,Company - Private,IT Services,Information Technology,$100 to $500 million (USD),0,0,MD,33,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,analyst,na,na
+3.4,Suitland,Fairfax,10000+ ,1996,Subsidiary or Business Segment,IT Services,Information Technology,$10+ billion (USD),0,0,MD,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,M
+3.2,McLean,Bedford,5001 - 10000 ,1958,Nonprofit Organization,Federal Agencies,Government,$1 to $2 billion (USD),0,0,VA,63,1,0,0,1,1,1,0,0,0,0,0,1,1,0,1,0,data scientist,na,na
+3.9,Fort Belvoir,Reston,501 - 1000 ,2010,Company - Private,IT Services,Information Technology,$100 to $500 million (USD),0,0,VA,11,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,data scientist,na,na
+3.1,Milwaukee,Boston,1001 - 5000 ,2001,Company - Private,Insurance Carriers,Insurance,$2 to $5 billion (USD),0,0,WI,20,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,analyst,na,na
+4.1,Silver Spring,Silver Spring,Jan-50,2007,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,0,0,MD,14,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,sr,na
+3.8,New York,New York,51 - 200 ,2012,Company - Private,Research & Development,Business Services,Unknown / Non-Applicable,0,0,NY,9,1,1,0,0,0,0,1,1,1,1,0,0,0,0,0,0,data scientist,na,na
+4.7,Syracuse,Syracuse,501 - 1000 ,1992,Company - Private,Security Services,Business Services,Unknown / Non-Applicable,0,0,NY,29,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,M
+4.3,Houston,New York,1001 - 5000 ,2015,Subsidiary or Business Segment,Education Training Services,Education,Unknown / Non-Applicable,0,0,TX,6,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,data scientist,na,na
+4.2,Washington,Washington,1001 - 5000 ,1935,Company - Private,Consulting,Business Services,Unknown / Non-Applicable,0,0,DC,86,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,sr,M
+3.9,Charlotte,Richmond,1001 - 5000 ,1997,Company - Private,IT Services,Information Technology,$100 to $500 million (USD),0,0,NC,24,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,data engineer,na,M
+3.3,Southfield,Detroit,10000+ ,1994,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$5 to $10 billion (USD),0,0,MI,27,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,0,data scientist,sr,M
+4.7,Matawan,Pompano Beach,201 - 500 ,2012,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,0,0,NJ,9,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,analyst,na,na
+4.3,Phoenix,Phoenix,201 - 500 ,2010,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $50 million (USD),0,0,AZ,11,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,analyst,sr,na
+2.9,Omaha,Omaha,1001 - 5000 ,1977,Hospital,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,0,0,NE,44,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,P
+4.5,San Francisco,San Francisco,201 - 500 ,2006,Company - Private,Computer Hardware & Software,Information Technology,$100 to $500 million (USD),0,0,CA,15,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,na
+3.4,Lyndhurst,Lyndhurst,201 - 500 ,2019,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,0,0,NJ,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data engineer,na,na
+3.7,Cambridge,OSAKA,10000+ ,1781,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),0,0,MA,240,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,data scientist,na,M
+4.6,New York,New York,51 - 200 ,2009,Company - Private,Internet,Information Technology,$100 to $500 million (USD),0,0,NY,12,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,na
+3.2,San Francisco,San Francisco,51 - 200 ,2015,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,0,0,CA,6,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,data scientist,na,M
+4,San Francisco,San Rafael,5001 - 10000 ,1982,Company - Public,Computer Hardware & Software,Information Technology,$2 to $5 billion (USD),0,0,CA,39,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,data engineer,na,M
+4.6,Atlanta,Atlanta,501 - 1000 ,1937,Company - Private,Farm Support Services,Agriculture & Forestry,$50 to $100 million (USD),0,0,IN,84,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,na
+2.8,Rockville,Rockville,201 - 500 ,2000,Company - Private,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,0,0,MD,21,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,M
+4.7,Minneapolis,Minneapolis,51 - 200 ,1996,Company - Private,Consulting,Business Services,$25 to $50 million (USD),0,0,MN,25,0,1,1,0,1,0,0,0,0,0,1,0,0,1,0,0,data engineer,na,na
+3,Los Angeles,Los Angeles,1001 - 5000 ,1997,Nonprofit Organization,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,0,0,CA,24,1,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,data scientist,na,M
+3.2,Charlotte,Fort Mill,1001 - 5000 ,2000,Company - Private,Advertising & Marketing,Business Services,$1 to $2 billion (USD),0,0,NC,21,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,data engineer,sr,na
+4.4,Cambridge,Cambridge,201 - 500 ,1999,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,0,0,MA,22,1,0,0,1,1,0,0,0,1,0,0,1,1,0,0,0,data scientist,na,na
+3.5,Cincinnati,Cincinnati,1001 - 5000 ,1878,Company - Public,TV Broadcast & Cable Networks,Media,$500 million to $1 billion (USD),0,0,OH,143,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,data scientist,na,M
+4,Washington,Washington,51 - 200 ,2015,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,0,0,DC,6,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,data engineer,na,na
+4.3,Chicago,Chicago,1001 - 5000 ,1993,Company - Public,Real Estate,Real Estate,$2 to $5 billion (USD),0,0,IL,28,1,1,0,1,1,0,0,0,0,0,1,0,0,0,1,0,data engineer,na,na
+2.3,Baltimore,Baltimore,501 - 1000 ,1986,Company - Private,Research & Development,Business Services,$100 to $500 million (USD),0,0,MD,35,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,analyst,na,na
+4,Alabaster,Decatur,51 - 200 ,2000,Other Organization,Architectural & Engineering Services,Business Services,$25 to $50 million (USD),0,0,AL,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,na
+3.6,Santa Fe Springs,Santa Fe Springs,1001 - 5000 ,1966,Company - Private,Industrial Manufacturing,Manufacturing,$100 to $500 million (USD),0,0,CA,55,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,data scientist,na,M
+3.8,Kansas City,Kansas City,501 - 1000 ,2017,Company - Private,Staffing & Outsourcing,Business Services,Unknown / Non-Applicable,0,0,MO,4,1,0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,Data scientist project manager,na,na
+3.7,Ashburn,Foster City,10000+ ,1958,Company - Public,IT Services,Information Technology,$10+ billion (USD),0,0,VA,63,1,1,0,0,1,0,0,0,0,0,1,1,0,0,0,0,data scientist,sr,M
+4.4,Chicago,Chicago,201 - 500 ,2008,Company - Private,Consulting,Business Services,$50 to $100 million (USD),0,0,IL,13,1,0,1,1,1,0,0,0,0,0,1,1,0,0,0,0,data scientist,na,na
+4,Herndon,Mc Lean,501 - 1000 ,2012,Company - Private,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),0,0,VA,9,1,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,data scientist,sr,na
+3.2,Fort Worth,Fort Worth,1001 - 5000 ,1958,Company - Private,Brokerage Services,Finance,$100 to $500 million (USD),0,0,TX,63,1,0,0,1,1,1,0,0,0,0,0,1,1,0,0,0,data scientist,na,na
+2.9,Valencia,West Hills,1001 - 5000 ,1971,Company - Private,Consumer Products Manufacturing,Manufacturing,$1 to $2 billion (USD),0,0,CA,50,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,M
+3.8,Novato,San Rafael,1001 - 5000 ,1997,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$500 million to $1 billion (USD),0,0,CA,24,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,P
+4.3,Aurora,Aurora,Jan-50,2007,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,0,0,CO,14,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0,machine learning engineer,na,na
+3.4,New York,London,1001 - 5000 ,1943,Company - Private,Consulting,Business Services,$100 to $500 million (USD),0,0,NY,78,1,1,0,1,1,0,0,0,0,0,1,1,0,0,1,0,data scientist,na,M
+4.1,Chantilly,Herndon,5001 - 10000 ,1968,Company - Public,Research & Development,Business Services,$1 to $2 billion (USD),0,0,VA,53,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,data scientist,na,na
+4.3,Mountain View,Mountain View,201 - 500 ,2011,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,0,0,CA,10,1,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,data scientist,na,M
+5,Tampa,Reston,51 - 200 ,2017,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,0,1,FL,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data engineer,na,na
+4.3,Chicago,Chicago,51 - 200 ,2008,Company - Private,Computer Hardware & Software,Information Technology,$10 to $25 million (USD),0,0,IL,13,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,data engineer,na,na
+3.7,Denver,Denver,201 - 500 ,2011,Company - Private,Travel Agencies,Travel & Tourism,Unknown / Non-Applicable,0,0,CO,10,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data scientist,sr,M
+4.2,Riverton,Salt Lake City,10000+ ,2007,Nonprofit Organization,Religious Organizations,Non-Profit,Unknown / Non-Applicable,0,0,UT,53.8,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,data engineer,na,M
+4.3,San Francisco,San Francisco,51 - 200 ,2013,Company - Private,Real Estate,Real Estate,Unknown / Non-Applicable,0,0,CA,8,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,analyst,na,na
+2.6,Pittsburgh,Pittsburgh,501 - 1000 ,1984,College / University,Colleges & Universities,Education,Unknown / Non-Applicable,0,0,PA,37,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,sr,M
+3.8,Richland,Richland,1001 - 5000 ,1965,Government,Energy,Oil& Gas& Energy & Utilities,$500 million to $1 billion (USD),0,0,WA,56,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,P
+3.9,Washington,Seattle,10000+ ,2000,Company - Private,IT Services,Information Technology,$2 to $5 billion (USD),0,0,DC,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data engineer,na,M
+4.3,Chicago,Mountain View,201 - 500 ,2011,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,0,0,IL,10,1,1,1,1,0,0,1,0,1,1,1,0,0,0,0,0,data scientist,na,P
+3.8,Cincinnati,Cincinnati,201 - 500 ,1987,Company - Private,Advertising & Marketing,Business Services,$100 to $500 million (USD),0,0,OH,34,1,0,0,1,1,0,0,0,1,0,0,0,1,0,0,0,data scientist,sr,M
+3.8,Chattanooga,Chattanooga,5001 - 10000 ,1945,Nonprofit Organization,Insurance Carriers,Insurance,$5 to $10 billion (USD),0,0,TN,76,0,0,0,1,1,1,0,0,0,0,0,1,0,0,1,0,data engineer,na,na
+3.8,Richland,Richland,1001 - 5000 ,1965,Government,Energy,Oil& Gas& Energy & Utilities,$500 million to $1 billion (USD),0,0,WA,56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,sr,P
+4.8,Clearwater,Clearwater,501 - 1000 ,2010,Company - Private,Security Services,Business Services,$100 to $500 million (USD),0,0,FL,11,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,analyst,sr,M
+4.4,Indianapolis,Indianapolis,51 - 200 ,2008,Company - Private,Consulting,Business Services,Unknown / Non-Applicable,0,0,IN,13,1,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,data scientist,sr,na
+3.9,Cambridge,Cambridge,51 - 200 ,2005,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,0,0,MA,16,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data engineer,na,na
+3.4,Ewing,Ewing,1001 - 5000 ,1846,Company - Public,Consumer Products Manufacturing,Manufacturing,$2 to $5 billion (USD),0,0,NJ,175,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,Data scientist project manager,na,M
+3.6,Boston,Springfield,5001 - 10000 ,1851,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),0,0,MA,170,1,1,1,0,1,0,0,0,1,0,1,0,0,0,0,0,data scientist,sr,P
+3.9,South San Francisco,South San Francisco,10000+ ,1976,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),0,0,CA,45,1,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,data scientist,sr,P
+3.8,Cupertino,Sunnyvale,5001 - 10000 ,1996,Company - Public,Telecommunications Services,Telecommunications,$2 to $5 billion (USD),0,0,CA,25,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,0,data scientist,sr,P
+3.7,Boston,OSAKA,10000+ ,1781,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),0,0,MA,240,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,P
+3.8,Frederick,Frederick,501 - 1000 ,1981,Company - Private,Insurance Carriers,Insurance,$500 million to $1 billion (USD),0,0,MD,40,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,data scientist,na,M
+3.5,San Jose,San Jose,10000+ ,1970,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),0,0,CA,51,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,data scientist,na,M
+3.9,Dallas,Mountain View,201 - 500 ,2013,Company - Private,Insurance Agencies & Brokerages,Insurance,Unknown / Non-Applicable,0,0,TX,8,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,sr,P
+4.2,San Francisco,San Francisco,51 - 200 ,2010,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,0,0,CA,11,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,na
+4.2,Riverton,Salt Lake City,10000+ ,2007,Nonprofit Organization,Religious Organizations,Non-Profit,Unknown / Non-Applicable,0,0,UT,53.8,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,data engineer,na,M
+3.5,Marlborough,Marlborough,1001 - 5000 ,2010,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $2 billion (USD),0,0,MA,11,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,sr,P
+2.9,Herndon,Herndon,201 - 500 ,1993,Nonprofit Organization,Colleges & Universities,Education,$25 to $50 million (USD),0,0,VA,28,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,analyst,sr,M
+3.6,West Reading,Reading,5001 - 10000 ,2017,Nonprofit Organization,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,1,0,PA,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,na
+2.7,Madison,Madison,51 - 200 ,1951,Government,Investment Banking & Asset Management,Finance,$50 to $100 million (USD),0,0,WI,70,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,data scientist,na,na
+4.4,Cambridge,Cambridge,201 - 500 ,2013,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD),0,0,MA,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,P
+4,San Francisco,San Rafael,5001 - 10000 ,1982,Company - Public,Computer Hardware & Software,Information Technology,$2 to $5 billion (USD),0,0,CA,39,1,1,0,0,1,1,0,0,1,1,1,0,0,0,0,0,data scientist,sr,P
+4.3,Dearborn,Detroit,201 - 500 ,1967,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable,0,0,MI,54,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,Data scientist project manager,na,na
+4.2,Winter Park,Winter Park,51 - 200 ,2006,Company - Public,Advertising & Marketing,Business Services,$25 to $50 million (USD),0,0,FL,15,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,data engineer,na,na
+3.6,San Rafael,San Rafael,51 - 200 ,2006,Subsidiary or Business Segment,Department& Clothing& & Shoe Stores,Retail,$100 to $500 million (USD),0,0,CA,15,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,analyst,na,na
+3.7,San Diego,OSAKA,10000+ ,1781,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),0,0,CA,240,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,sr,M
+2.8,Hamilton,Hamilton,201 - 500 ,2014,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,0,0,NJ,7,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,analyst,sr,na
+3.7,Boston,OSAKA,10000+ ,1781,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),0,0,MA,240,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,sr,M
+3.3,Woodbridge,Boston,1001 - 5000 ,1982,Company - Private,Insurance Carriers,Insurance,$10 to $25 million (USD),0,0,NJ,39,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,data scientist,sr,M
+3.7,San Francisco,Fremont,51 - 200 ,2017,Company - Private,IT Services,Information Technology,$5 to $10 million (USD),0,1,CA,4,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,data scientist,sr,na
+3.6,Lewes,Lewes,1001 - 5000 ,1935,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),1,0,DE,86,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,na
+3.7,Boston,OSAKA,10000+ ,1781,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),0,0,MA,240,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,sr,M
+3.4,New York,Hamilton,1001 - 5000 ,1948,Company - Public,Insurance Carriers,Insurance,$1 to $2 billion (USD),0,0,NY,73,1,1,1,0,1,0,1,1,1,1,1,0,0,0,0,0,data scientist,sr,na
+4.1,Springfield,Springfield,501 - 1000 ,1961,Company - Private,Energy,Oil& Gas& Energy & Utilities,$1 to $2 billion (USD),0,0,MO,60,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,analyst,na,M
+2.6,Pittsburgh,Pittsburgh,501 - 1000 ,1984,College / University,Colleges & Universities,Education,Unknown / Non-Applicable,0,0,PA,37,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,machine learning engineer,na,P
+3.2,Phoenix,Westlake Village,1001 - 5000 ,2008,Company - Public,Lending,Finance,$500 million to $1 billion (USD),0,0,AZ,13,1,0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,data scientist,na,na
+3.9,Burbank,Burbank,51 - 200 ,2009,Company - Private,Financial Analytics & Research,Finance,$50 to $100 million (USD),0,0,CA,12,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,sr,M
+4.7,Huntsville,Arlington,51 - 200 ,1996,Company - Private,Aerospace & Defense,Aerospace & Defense,$25 to $50 million (USD),0,0,AL,25,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,analyst,na,na
+3.7,Worcester,Worcester,5001 - 10000 ,1852,Company - Public,Insurance Carriers,Insurance,$5 to $10 billion (USD),0,0,MA,169,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,data scientist,sr,M
+2.9,Newton,Newton,201 - 500 ,2007,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,0,0,MA,53.8,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,P
+3,Chicago,Chicago,501 - 1000 ,2015,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,0,0,IL,6,1,0,1,0,1,0,0,1,1,1,0,0,0,0,0,0,machine learning engineer,sr,P
+4.7,Salt Lake City,Salt Lake City,51 - 200 ,2013,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $5 million (USD),0,0,UT,8,1,0,1,0,0,0,1,1,1,1,0,0,0,0,0,0,data scientist,sr,na
+3.7,Lafayette,Denver,501 - 1000 ,2007,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,0,0,LA,53.8,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,data engineer,na,na
+3.3,Rochester,Rochester,10000+ ,2014,Hospital,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),0,0,NY,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,sr,P
+4,Annapolis Junction,Annapolis Junction,51 - 200 ,2002,Company - Private,Computer Hardware & Software,Information Technology,$5 to $10 million (USD),0,0,MD,19,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,na,na,M
+4.4,Cambridge,Cambridge,201 - 500 ,2013,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD),0,0,MA,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,sr,P
+3.9,San Francisco,San Francisco,201 - 500 ,2007,Company - Private,Internet,Information Technology,$10 to $25 million (USD),0,0,CA,14,1,1,0,0,1,0,0,0,1,1,0,0,0,0,0,0,machine learning engineer,na,na
+3.3,Rochester,Rochester,10000+ ,2014,Hospital,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),0,0,NY,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,sr,P
+4.1,Mountain View,Mountain View,51 - 200 ,2010,Company - Private,Internet,Information Technology,$50 to $100 million (USD),0,0,CA,11,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,data engineer,sr,na
+3.6,Highland,Highland,1001 - 5000 ,1986,Company - Private,Gambling,Arts& Entertainment & Recreation,$100 to $500 million (USD),0,0,CA,35,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,1,analyst,na,M
+4,Burleson,Arlington,1001 - 5000 ,1977,Hospital,Health Care Services & Hospitals,Health Care,$50 to $100 million (USD),1,0,TX,44,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,na
+2.4,Hoopeston,Flower Mound,501 - 1000 ,2007,Company - Private,Food & Beverage Manufacturing,Manufacturing,$100 to $500 million (USD),0,0,IL,53.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,na
+2.6,Pittsburgh,Pittsburgh,501 - 1000 ,1984,College / University,Colleges & Universities,Education,Unknown / Non-Applicable,0,0,PA,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,machine learning engineer,sr,P
+3.5,Scotts Valley,Scotts Valley,501 - 1000 ,1996,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),0,0,CA,25,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,Data scientist project manager,na,na
+3,Knoxville,Knoxville,10000+ ,1958,Company - Private,Gas Stations,Retail,$10+ billion (USD),0,0,TN,63,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data engineer,sr,M
+3.6,Millville,Lewes,1001 - 5000 ,1935,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),1,0,DE,86,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,na
+3.3,Milwaukee,Milwaukee,501 - 1000 ,1964,Company - Private,Food & Beverage Manufacturing,Manufacturing,Unknown / Non-Applicable,0,0,WI,57,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,na
+2.7,Rockville,Rockville,201 - 500 ,1961,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$25 to $50 million (USD),0,0,MD,60,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,P
+3.4,Chicago,Chicago,1001 - 5000 ,2005,Company - Public,Transportation Management,Transportation & Logistics,$2 to $5 billion (USD),0,0,IL,16,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data engineer,sr,na
+3.8,Chicago,New Plymouth,501 - 1000 ,1995,Company - Private,Logistics & Supply Chain,Transportation & Logistics,Unknown / Non-Applicable,0,0,IL,26,1,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,data scientist,na,M
+3.7,Herndon,Bethesda,10000+ ,1995,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),0,0,VA,26,1,1,0,1,1,0,0,0,0,0,1,1,0,0,0,0,data scientist,na,na
+4.8,Sheboygan,Sheboygan,1001 - 5000 ,1925,Company - Private,Insurance Carriers,Insurance,$1 to $2 billion (USD),0,0,WI,96,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,data scientist,sr,M
+3.8,New York,New York,1001 - 5000 ,2002,Company - Private,Travel Agencies,Travel & Tourism,$2 to $5 billion (USD),0,0,NY,19,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,analyst,na,na
+3.4,New Orleans,Washington,10000+ ,1930,Government,Federal Agencies,Government,Unknown / Non-Applicable,1,0,LA,91,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,M
+4.3,Dallas,Dallas,201 - 500 ,1999,Subsidiary or Business Segment,Consulting,Business Services,Unknown / Non-Applicable,0,0,TX,22,1,1,1,1,1,0,0,0,0,0,1,1,1,0,0,0,data scientist,na,M
+4.8,Clearwater,Clearwater,501 - 1000 ,2010,Company - Private,Security Services,Business Services,$100 to $500 million (USD),0,0,FL,11,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,analyst,sr,M
+3.4,Ewing,Ewing,1001 - 5000 ,1846,Company - Public,Consumer Products Manufacturing,Manufacturing,$2 to $5 billion (USD),0,0,NJ,175,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,Data scientist project manager,na,M
+3.9,Cambridge,Cambridge,51 - 200 ,2005,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,0,0,MA,16,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data engineer,na,na
+3.4,Chicago,Chicago,51 - 200 ,1992,Company - Private,Advertising & Marketing,Business Services,$10 to $25 million (USD),0,0,IL,29,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,data scientist,na,na
+3.1,San Mateo,Seoul,1001 - 5000 ,1997,Company - Public,Video Games,Media,$10+ billion (USD),0,0,CA,24,1,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,analyst,na,na
+3.2,McLean,Bedford,5001 - 10000 ,1958,Nonprofit Organization,Federal Agencies,Government,$1 to $2 billion (USD),0,0,VA,63,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,data scientist,na,na
+4.3,Dayton,Dayton,1001 - 5000 ,1981,Company - Private,Trucking,Transportation & Logistics,Unknown / Non-Applicable,0,0,OH,40,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,analyst,na,na
+3.6,Boston,Springfield,5001 - 10000 ,1851,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),0,0,MA,170,1,1,1,0,1,0,0,0,1,0,1,0,0,0,0,0,data scientist,sr,P
+3.9,South San Francisco,South San Francisco,10000+ ,1976,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),0,0,CA,45,1,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,data scientist,sr,P
+3.8,Cupertino,Sunnyvale,5001 - 10000 ,1996,Company - Public,Telecommunications Services,Telecommunications,$2 to $5 billion (USD),0,0,CA,25,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,0,data scientist,sr,P
+2.8,Parlier,San Luis Obispo,501 - 1000 ,2007,Nonprofit Organization,Social Assistance,Non-Profit,$50 to $100 million (USD),0,0,CA,53.8,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,analyst,na,na
+3.7,Boston,OSAKA,10000+ ,1781,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),0,0,MA,240,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,P
+3.4,San Francisco,San Francisco,51 - 200 ,2013,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,0,0,CA,8,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,analyst,na,na
+4,Meridian,Akron,201 - 500 ,1984,Company - Private,Computer Hardware & Software,Information Technology,$50 to $100 million (USD),0,0,ID,37,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,analyst,na,na
+3.5,San Jose,San Jose,10000+ ,1970,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),0,0,CA,51,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,data scientist,na,M
+3.8,Frederick,Frederick,501 - 1000 ,1981,Company - Private,Insurance Carriers,Insurance,$500 million to $1 billion (USD),0,0,MD,40,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,data scientist,na,M
+3.7,Cherry Hill,Cherry Hill,201 - 500 ,1996,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,0,0,NJ,25,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,analyst,na,M
+3.5,Indianapolis,Arlington,201 - 500 ,2019,Company - Private,IT Services,Information Technology,$25 to $50 million (USD),0,0,IN,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,M
+4.2,Riverton,Salt Lake City,10000+ ,2007,Nonprofit Organization,Religious Organizations,Non-Profit,Unknown / Non-Applicable,0,0,UT,53.8,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,data engineer,na,M
+4,Cambridge,New York,10000+ ,1849,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),0,0,MA,172,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,na
+4.3,Louisville,Peachtree City,51 - 200 ,1935,Nonprofit Organization,Logistics & Supply Chain,Transportation & Logistics,$10 to $25 million (USD),0,0,KY,86,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,data scientist,na,M
+4.7,New York,Cincinnati,201 - 500 ,1992,Company - Private,Consulting,Business Services,$50 to $100 million (USD),0,0,NY,29,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,data analitics,na,M
+3.5,Marlborough,Marlborough,1001 - 5000 ,2010,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $2 billion (USD),0,0,MA,11,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,sr,P
+4.4,Nashville,San Francisco,1001 - 5000 ,2006,Company - Public,Internet,Information Technology,$100 to $500 million (USD),0,0,TN,15,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,data engineer,na,na
+4.1,Chicago,Chicago,501 - 1000 ,2001,Company - Private,Internet,Information Technology,$100 to $500 million (USD),0,0,IL,20,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,data engineer,na,na
+2.9,Herndon,Herndon,201 - 500 ,1993,Nonprofit Organization,Colleges & Universities,Education,$25 to $50 million (USD),0,0,VA,28,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,analyst,sr,M
+2.5,Portland,Reston,1001 - 5000 ,1999,Company - Public,Advertising & Marketing,Business Services,$1 to $2 billion (USD),0,0,OR,22,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,na
+4.2,Minneapolis,Chicago,201 - 500 ,1992,Company - Private,Consulting,Business Services,Unknown / Non-Applicable,0,0,MN,29,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,analyst,na,na
+3.9,Port Washington,Port Washington,1001 - 5000 ,1966,Company - Private,Research & Development,Business Services,$100 to $500 million (USD),0,0,NY,55,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,na
+4.3,Austin,Austin,Jan-50,2010,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable,0,0,TX,11,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,data scientist,na,na
+2.7,Madison,Madison,51 - 200 ,1951,Government,Investment Banking & Asset Management,Finance,$50 to $100 million (USD),0,0,WI,70,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,data scientist,na,na
+3.9,South San Francisco,South San Francisco,10000+ ,1976,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),0,0,CA,45,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,data scientist,na,M
+3.4,Providence,Providence,501 - 1000 ,1939,Nonprofit Organization,Insurance Carriers,Insurance,Unknown / Non-Applicable,0,0,RI,82,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,analyst,sr,na
+3.8,Omaha,Omaha,1001 - 5000 ,1917,Nonprofit Organization,Social Assistance,Non-Profit,Unknown / Non-Applicable,0,0,NE,104,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,P
+3.6,West Reading,Reading,5001 - 10000 ,2017,Nonprofit Organization,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,1,0,PA,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,na
+3.3,Washington,Washington,501 - 1000 ,1883,Nonprofit Organization,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,0,0,DC,138,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,analyst,jr,M
+3.4,Austin,Alexandria,201 - 500 ,2006,Company - Private,Consulting,Business Services,$50 to $100 million (USD),0,0,TX,15,1,0,1,0,1,0,0,0,0,0,1,1,1,0,0,0,data engineer,na,M
+3,Cincinnati,Lincoln,1001 - 5000 ,1887,Company - Private,Insurance Agencies & Brokerages,Insurance,$2 to $5 billion (USD),0,0,OH,134,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,data scientist,na,na
+4,San Francisco,San Rafael,5001 - 10000 ,1982,Company - Public,Computer Hardware & Software,Information Technology,$2 to $5 billion (USD),0,0,CA,39,1,1,0,0,1,1,0,0,1,1,1,0,0,0,0,0,data scientist,sr,P
+3.7,Raleigh,Richmond,1001 - 5000 ,2004,Company - Public,Insurance Carriers,Insurance,$5 to $10 billion (USD),0,0,NC,17,1,1,1,1,1,1,0,0,1,0,1,1,0,0,0,0,data scientist,na,M
+4.4,Cambridge,Cambridge,201 - 500 ,2013,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD),0,0,MA,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,P
+4.3,Dearborn,Detroit,201 - 500 ,1967,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable,0,0,MI,54,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,Data scientist project manager,na,na
+4,Groton,New York,10000+ ,1849,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),0,0,CT,172,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,M
+4,Herndon,Mc Lean,501 - 1000 ,2012,Company - Private,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),0,0,VA,9,1,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,data scientist,na,na
+3.2,Phila,Chadds Ford,Jan-50,2007,Company - Private,Staffing & Outsourcing,Business Services,$5 to $10 million (USD),0,0,PA,53.8,1,1,1,1,0,0,0,0,1,0,1,0,0,0,0,0,data scientist,sr,M
+4.2,Winter Park,Winter Park,51 - 200 ,2006,Company - Public,Advertising & Marketing,Business Services,$25 to $50 million (USD),0,0,FL,15,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,data engineer,na,na
+3.9,Oakland,Santa Ana,51 - 200 ,2000,Company - Private,Insurance Carriers,Insurance,$10 to $25 million (USD),0,0,CA,21,1,1,0,0,1,1,0,1,1,1,0,0,0,0,0,0,data scientist,na,M
+3.7,San Diego,OSAKA,10000+ ,1781,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),0,0,CA,240,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,sr,M
+3.6,San Rafael,San Rafael,51 - 200 ,2006,Subsidiary or Business Segment,Department& Clothing& & Shoe Stores,Retail,$100 to $500 million (USD),0,0,CA,15,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,analyst,na,na
+3.7,Boston,OSAKA,10000+ ,1781,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),0,0,MA,240,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,sr,M
+2.8,Hamilton,Hamilton,201 - 500 ,2014,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,0,0,NJ,7,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,analyst,sr,na
+4.2,Boise,Boise,501 - 1000 ,2004,Company - Private,Investment Banking & Asset Management,Finance,$50 to $100 million (USD),0,0,ID,17,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,analyst,na,na
+4,San Francisco,Pleasanton,Jan-50,2007,Company - Private,IT Services,Information Technology,Less than $1 million (USD),0,0,CA,53.8,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,data scientist,na,na
+3.5,Oak Ridge,Lynchburg,5001 - 10000 ,1850,Company - Public,Aerospace & Defense,Aerospace & Defense,$500 million to $1 billion (USD),0,0,TN,171,1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,data scientist,na,M
+3.7,San Francisco,Fremont,51 - 200 ,2017,Company - Private,IT Services,Information Technology,$5 to $10 million (USD),0,1,CA,4,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,data scientist,sr,na
+3.2,Agoura Hills,Westlake Village,1001 - 5000 ,2008,Company - Public,Lending,Finance,$500 million to $1 billion (USD),0,0,CA,13,1,0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,data engineer,na,na
+3.3,Woodbridge,Boston,1001 - 5000 ,1982,Company - Private,Insurance Carriers,Insurance,$10 to $25 million (USD),0,0,NJ,39,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,data scientist,sr,M
+3.9,Pella,Pella,1001 - 5000 ,1948,Company - Private,Industrial Manufacturing,Manufacturing,$1 to $2 billion (USD),0,0,IA,73,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,data engineer,na,na
+3.7,Boston,OSAKA,10000+ ,1781,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),0,0,MA,240,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,sr,M
+3.6,Lewes,Lewes,1001 - 5000 ,1935,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),1,0,DE,86,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,na
+3.4,New York,Hamilton,1001 - 5000 ,1948,Company - Public,Insurance Carriers,Insurance,$1 to $2 billion (USD),0,0,NY,73,1,1,1,0,1,0,1,1,1,1,1,0,0,0,0,0,data scientist,sr,na
+3.5,San Ramon,Mumbai,10000+ ,1997,Company - Public,IT Services,Information Technology,Unknown / Non-Applicable,0,0,CA,24,1,0,0,1,1,0,1,0,1,0,0,1,0,0,0,0,data scientist,na,na
+4.3,Red Bank,Toms River,501 - 1000 ,1902,Company - Public,Banks & Credit Unions,Finance,$5 to $10 billion (USD),0,0,NJ,119,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,analyst,na,na
+4.1,Springfield,Springfield,501 - 1000 ,1961,Company - Private,Energy,Oil& Gas& Energy & Utilities,$1 to $2 billion (USD),0,0,MO,60,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,analyst,na,M
+2.6,Pittsburgh,Pittsburgh,501 - 1000 ,1984,College / University,Colleges & Universities,Education,Unknown / Non-Applicable,0,0,PA,37,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,machine learning engineer,na,P
+3.6,New York,New York,1001 - 5000 ,1744,Company - Public,Auctions & Galleries,Retail,$500 million to $1 billion (USD),0,0,NY,277,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,na
+3.5,Hillsboro,San Jose,1001 - 5000 ,1952,Company - Private,Banks & Credit Unions,Finance,$100 to $500 million (USD),0,0,OR,69,1,1,1,1,1,0,1,0,1,1,0,1,0,0,0,0,data scientist,na,na
+3.6,Detroit,Detroit,1001 - 5000 ,1997,Company - Private,Real Estate,Real Estate,$500 million to $1 billion (USD),0,0,MI,24,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,data scientist,na,M
+2.3,Washington,Washington,201 - 500 ,2003,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD),0,0,DC,18,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,data scientist,na,M
+3.9,Burbank,Burbank,51 - 200 ,2009,Company - Private,Financial Analytics & Research,Finance,$50 to $100 million (USD),0,0,CA,12,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,sr,M
+4,Fort Belvoir,Mc Lean,501 - 1000 ,2012,Company - Private,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),0,0,VA,9,1,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,data scientist,sr,na
+4.1,Palo Alto,Palo Alto,Jan-50,2007,Company - Private,K-12 Education,Education,Unknown / Non-Applicable,0,0,CA,14,0,0,1,1,1,1,0,0,0,0,0,1,0,0,1,0,data scientist,sr,M
+3.2,Phoenix,Westlake Village,1001 - 5000 ,2008,Company - Public,Lending,Finance,$500 million to $1 billion (USD),0,0,AZ,13,1,0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,data scientist,na,na
+4.7,Huntsville,Arlington,51 - 200 ,1996,Company - Private,Aerospace & Defense,Aerospace & Defense,$25 to $50 million (USD),0,0,AL,25,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,analyst,na,na
+4.2,San Diego,Waltham,51 - 200 ,1987,Company - Private,Consulting,Business Services,$10 to $25 million (USD),0,0,CA,34,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data analitics,na,na
+4.6,Houston,Reston,501 - 1000 ,1982,Company - Private,IT Services,Information Technology,$50 to $100 million (USD),0,0,TX,39,0,1,0,0,1,0,0,0,0,0,1,1,1,0,0,0,data engineer,na,na
+3.7,Armonk,Zurich,10000+ ,1863,Company - Public,Insurance Agencies & Brokerages,Insurance,$10+ billion (USD),0,0,NY,158,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,data scientist,sr,M
+3.7,Cambridge,OSAKA,10000+ ,1781,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),0,0,MA,240,1,1,1,1,1,0,0,0,0,0,1,1,0,0,1,0,data engineer,na,na
+4.4,Columbia,Charlotte,201 - 500 ,1929,Company - Private,Architectural & Engineering Services,Business Services,$25 to $50 million (USD),0,0,SC,92,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,na
+3.7,Worcester,Worcester,5001 - 10000 ,1852,Company - Public,Insurance Carriers,Insurance,$5 to $10 billion (USD),0,0,MA,169,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,data scientist,sr,M
+3.9,South San Francisco,South San Francisco,10000+ ,1976,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),0,0,CA,45,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,P
+3.6,Springfield,Springfield,5001 - 10000 ,1851,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),0,0,MA,170,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,analyst,sr,na
+3,Chicago,Chicago,501 - 1000 ,2015,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,0,0,IL,6,1,0,1,0,1,0,0,1,1,1,0,0,0,0,0,0,machine learning engineer,sr,P
+3.4,Washington,Fairfax,10000+ ,1996,Subsidiary or Business Segment,IT Services,Information Technology,$10+ billion (USD),0,0,DC,25,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,analyst,na,M
+4.1,Herndon,Herndon,5001 - 10000 ,1968,Company - Public,Research & Development,Business Services,$1 to $2 billion (USD),0,0,VA,53,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,data engineer,na,na
+3.8,Cambridge,Basel,10000+ ,1996,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),0,0,MA,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,sr,na
+4,San Francisco,San Rafael,5001 - 10000 ,1982,Company - Public,Computer Hardware & Software,Information Technology,$2 to $5 billion (USD),0,0,CA,39,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,data engineer,sr,na
+3.9,San Antonio,San Antonio,1001 - 5000 ,1947,Nonprofit Organization,Research & Development,Business Services,$500 million to $1 billion (USD),0,0,TX,74,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,na
+3.8,Cambridge,Basel,10000+ ,1996,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),0,0,MA,25,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,data scientist,na,na
+3.8,Sunnyvale,Sunnyvale,5001 - 10000 ,1996,Company - Public,Telecommunications Services,Telecommunications,$2 to $5 billion (USD),0,0,CA,25,1,1,0,1,1,0,1,0,1,1,0,0,0,0,1,0,data scientist,na,M
+2.2,Dallas,Denver,501 - 1000 ,1993,Subsidiary or Business Segment,Advertising & Marketing,Business Services,$50 to $100 million (USD),0,0,TX,28,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,data scientist,sr,M
+2.9,Newton,Newton,201 - 500 ,2007,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,0,0,MA,53.8,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,P
+4.1,Portsmouth,Herndon,5001 - 10000 ,1968,Company - Public,Research & Development,Business Services,$1 to $2 billion (USD),0,0,VA,53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,analyst,na,na
+3.7,Lafayette,Denver,501 - 1000 ,2007,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,0,0,LA,53.8,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,data engineer,na,na
+3.8,Richland,Richland,1001 - 5000 ,1965,Government,Energy,Oil& Gas& Energy & Utilities,$500 million to $1 billion (USD),0,0,WA,56,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,P
+3.6,Springfield,Springfield,5001 - 10000 ,1851,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),0,0,MA,170,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,data engineer,na,na
+4.7,Salt Lake City,Salt Lake City,51 - 200 ,2013,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $5 million (USD),0,0,UT,8,1,0,1,0,0,0,1,1,1,1,0,0,0,0,0,0,data scientist,sr,na
+3.5,Arlington,Redlands,1001 - 5000 ,1969,Company - Private,Computer Hardware & Software,Information Technology,$1 to $2 billion (USD),0,0,VA,52,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,M
+3.3,Rochester,Rochester,10000+ ,2014,Hospital,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),0,0,NY,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,sr,P
+4.4,Cambridge,Cambridge,201 - 500 ,2013,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD),0,0,MA,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,sr,P
+3.3,San Francisco,San Francisco,201 - 500 ,2008,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable,0,0,CA,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,na
+3.4,West Palm Beach,West Palm Beach,201 - 500 ,1991,Company - Public,Telecommunications Manufacturing,Telecommunications,$50 to $100 million (USD),0,0,FL,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,analyst,na,M
+4,Annapolis Junction,Annapolis Junction,51 - 200 ,2002,Company - Private,Computer Hardware & Software,Information Technology,$5 to $10 million (USD),0,0,MD,19,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,na,na,M
+4.4,Herndon,Pleasanton,Jan-50,2015,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,0,0,VA,6,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,data engineer,na,na
+3.8,Austin,Redwood City,501 - 1000 ,2010,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,0,0,TX,11,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,data engineer,na,M
+3.5,Washington,Washington,1001 - 5000 ,2007,Company - Private,Research & Development,Business Services,Unknown / Non-Applicable,0,0,DC,14,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,data engineer,na,M
+3.5,Charlotte,Charlotte,1001 - 5000 ,2017,Company - Public,Insurance Carriers,Insurance,Unknown / Non-Applicable,0,0,NC,4,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,sr,M
+2.9,San Jose,New York,51 - 200 ,1998,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable,0,0,CA,23,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,data engineer,na,M
+3.9,Exton,Exton,501 - 1000 ,1937,Nonprofit Organization,Banks & Credit Unions,Finance,Unknown / Non-Applicable,0,0,PA,84,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,analyst,na,na
+3.3,Rochester,Rochester,10000+ ,2014,Hospital,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),0,0,NY,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,sr,P
+3.7,Alexandria,Alexandria,501 - 1000 ,1989,Company - Private,IT Services,Information Technology,$100 to $500 million (USD),0,0,VA,32,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,analyst,na,na
+3.6,Boston,Springfield,5001 - 10000 ,1851,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),0,0,MA,170,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,director,na,na
+3.5,Redlands,Redlands,1001 - 5000 ,1969,Company - Private,Computer Hardware & Software,Information Technology,$1 to $2 billion (USD),0,0,CA,52,1,1,1,0,0,0,0,0,0,0,1,1,0,0,1,0,data scientist,na,M
+4.7,Ipswich,Ipswich,201 - 500 ,1974,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,0,0,MA,47,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,na
+3.9,San Francisco,San Francisco,201 - 500 ,2007,Company - Private,Internet,Information Technology,$10 to $25 million (USD),0,0,CA,14,1,1,0,0,1,0,0,0,1,1,0,0,0,0,0,0,machine learning engineer,na,na
+3.7,Chicago,Chicago,10000+ ,1928,Company - Public,Computer Hardware & Software,Information Technology,$5 to $10 billion (USD),0,0,IL,93,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,analyst,na,M
+4.1,Mountain View,Mountain View,51 - 200 ,2010,Company - Private,Internet,Information Technology,$50 to $100 million (USD),0,0,CA,11,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,data engineer,sr,na
+3.1,Owensboro,Winston-Salem,5001 - 10000 ,1875,Company - Private,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),0,0,KY,146,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,na
+3.6,Springfield,Springfield,5001 - 10000 ,1851,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),0,0,MA,170,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Data scientist project manager,na,M
+3,Hartford,Bengaluru,10000+ ,1981,Company - Public,IT Services,Information Technology,$10+ billion (USD),0,0,CT,40,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,data analitics,na,na
+3.5,Orange,Orange,501 - 1000 ,2013,Company - Private,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,0,0,CA,8,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,data engineer,na,M
+3.6,Highland,Highland,1001 - 5000 ,1986,Company - Private,Gambling,Arts& Entertainment & Recreation,$100 to $500 million (USD),0,0,CA,35,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,1,analyst,na,M
+3.5,Marlborough,Marlborough,1001 - 5000 ,2010,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $2 billion (USD),0,0,MA,11,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,sr,P
+4,Burleson,Arlington,1001 - 5000 ,1977,Hospital,Health Care Services & Hospitals,Health Care,$50 to $100 million (USD),1,0,TX,44,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,na
+3.7,Lenexa,Chicago,501 - 1000 ,1973,Company - Public,Stock Exchanges,Finance,$500 million to $1 billion (USD),0,0,KS,48,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,machine learning engineer,na,na
+2.4,Hoopeston,Flower Mound,501 - 1000 ,2007,Company - Private,Food & Beverage Manufacturing,Manufacturing,$100 to $500 million (USD),0,0,IL,53.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,na
+3.2,New York,New York,501 - 1000 ,2003,Company - Private,Research & Development,Business Services,Unknown / Non-Applicable,0,0,NY,18,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,data engineer,na,na
+2.1,Concord,Concord,201 - 500 ,2007,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$25 to $50 million (USD),0,0,CA,53.8,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,P
+3.7,Cambridge,OSAKA,10000+ ,1781,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),0,0,MA,240,0,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,data engineer,na,M
+2.6,Pittsburgh,Pittsburgh,501 - 1000 ,1984,College / University,Colleges & Universities,Education,Unknown / Non-Applicable,0,0,PA,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,machine learning engineer,sr,P
+4.4,Chicago,Chicago,201 - 500 ,2008,Company - Private,Consulting,Business Services,$50 to $100 million (USD),0,0,IL,13,1,0,1,1,1,0,0,0,0,0,1,1,0,0,0,0,data scientist,sr,na
+3.7,Vail,Vail,501 - 1000 ,1966,Hospital,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),1,0,CO,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,na
+3.5,Scotts Valley,Scotts Valley,501 - 1000 ,1996,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),0,0,CA,25,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,Data scientist project manager,na,na
+3,Knoxville,Knoxville,10000+ ,1958,Company - Private,Gas Stations,Retail,$10+ billion (USD),0,0,TN,63,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data engineer,sr,M
+4.2,San Francisco,San Francisco,51 - 200 ,2010,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,0,0,CA,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,M
+3.9,New York,Cambridge,10000+ ,1913,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),0,0,NY,108,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,sr,P
+4,Denver,Denver,501 - 1000 ,1915,Nonprofit Organization,Insurance Carriers,Insurance,$500 million to $1 billion (USD),0,0,CO,106,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,data engineer,na,M
+3.3,Milwaukee,Milwaukee,501 - 1000 ,1964,Company - Private,Food & Beverage Manufacturing,Manufacturing,Unknown / Non-Applicable,0,0,WI,57,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,na
+4.4,Natick,Natick,1001 - 5000 ,1984,Company - Private,Computer Hardware & Software,Information Technology,$1 to $2 billion (USD),0,0,MA,37,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,data scientist,sr,M
+3.4,Rockville,Reston,201 - 500 ,1999,Company - Private,IT Services,Information Technology,$25 to $50 million (USD),0,0,MD,22,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,data engineer,na,M
+3.3,Chicago,Boston,10000+ ,1912,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),0,0,IL,109,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,data scientist,na,M
+2.9,South San Francisco,San Francisco,201 - 500 ,2012,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,0,0,CA,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,P
+2.7,Rockville,Rockville,201 - 500 ,1961,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$25 to $50 million (USD),0,0,MD,60,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,P
+3.6,Millville,Lewes,1001 - 5000 ,1935,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),1,0,DE,86,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,na
+3.1,Winston-Salem,Winston-Salem,5001 - 10000 ,1875,Company - Private,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),0,0,NC,146,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,na
+3.3,Richfield,Richfield,501 - 1000 ,1989,Company - Private,Insurance Carriers,Insurance,$500 million to $1 billion (USD),0,0,OH,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,analyst,na,na
+4.5,Indianapolis,Indianapolis,51 - 200 ,1996,Company - Private,Consulting,Business Services,$25 to $50 million (USD),0,0,IN,25,1,1,1,0,1,0,0,0,0,0,1,0,0,0,1,0,data engineer,sr,na
+3.9,Chicago,Chicago,5001 - 10000 ,1968,Company - Public,Financial Analytics & Research,Finance,$1 to $2 billion (USD),0,0,IL,53,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,data scientist,sr,na
+3.2,Hampton,Bedford,5001 - 10000 ,1958,Nonprofit Organization,Federal Agencies,Government,$1 to $2 billion (USD),0,0,VA,63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,sr,P
+3.3,Cambridge,Cambridge,Jan-50,1976,Company - Private,Construction,Construction& Repair & Maintenance,Unknown / Non-Applicable,1,1,MA,45,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,na
+3.1,Winston-Salem,Winston-Salem,5001 - 10000 ,1875,Company - Private,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),0,0,NC,146,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,sr,M
+2.4,San Diego,San Diego,501 - 1000 ,2006,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$50 to $100 million (USD),0,0,CA,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,M
+4.8,San Francisco,San Francisco,51 - 200 ,2011,Company - Private,Computer Hardware & Software,Information Technology,$25 to $50 million (USD),0,0,CA,10,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,Data scientist project manager,na,na
+2.9,Ithaca,Morrisville,1001 - 5000 ,2015,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,0,0,NY,6,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,na
+2.9,Marietta,Morrisville,1001 - 5000 ,2015,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,0,0,GA,6,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,sr,na
+3.4,Quincy,Quincy,1001 - 5000 ,1988,Company - Private,Insurance Carriers,Insurance,$100 to $500 million (USD),0,0,MA,33,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,data engineer,na,na
+2.6,Pittsburgh,Pittsburgh,501 - 1000 ,1984,College / University,Colleges & Universities,Education,Unknown / Non-Applicable,0,0,PA,37,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,P
+5,Washington,Alexandria,Jan-50,2007,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,0,1,DC,53.8,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,na
+3.6,Boston,Springfield,5001 - 10000 ,1851,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),0,0,MA,170,1,1,1,1,1,0,0,0,0,0,1,1,1,0,0,0,na,na,na
+4,New York,New York,10000+ ,1849,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),0,0,NY,172,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,sr,M
+3.8,Green Bay,Green Bay,1001 - 5000 ,1870,Company - Public,Banks & Credit Unions,Finance,$1 to $2 billion (USD),0,0,WI,151,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,analyst,na,na
+3.9,Burbank,Burbank,51 - 200 ,2009,Company - Private,Financial Analytics & Research,Finance,$50 to $100 million (USD),0,0,CA,12,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,data scientist,sr,M
+3.8,New York,New York,1001 - 5000 ,2002,Company - Private,Travel Agencies,Travel & Tourism,$2 to $5 billion (USD),0,0,NY,19,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,analyst,na,na
+4.3,Durham,Daly City,5001 - 10000 ,1990,Company - Private,Computer Hardware & Software,Information Technology,$1 to $2 billion (USD),0,0,NC,31,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,0,data engineer,sr,na
+1.9,New York,New York,201 - 500 ,2010,Company - Private,Department& Clothing& & Shoe Stores,Retail,$100 to $500 million (USD),0,0,NY,11,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,analyst,sr,na
+3.3,Indianapolis,Boston,10000+ ,1912,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),0,0,IN,109,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,data modeler,na,M
+4.7,Clovis,Visalia,51 - 200 ,1972,Company - Private,Architectural & Engineering Services,Business Services,$10 to $25 million (USD),0,0,CA,49,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,na
+3.1,Boston,Madrid,10000+ ,1856,Company - Private,Banks & Credit Unions,Finance,$10+ billion (USD),0,0,MA,165,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,data scientist,na,M
+3.4,Chandler,Franklin,501 - 1000 ,1981,Company - Public,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,0,0,AZ,40,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,data engineer,sr,na
+4.4,Chantilly,Washington,51 - 200 ,2004,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,0,0,VA,17,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,data engineer,na,na
+3.9,Orlando,Orlando,201 - 500 ,2012,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,0,0,FL,9,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,sr,M
+3.9,Chicago,Jacksonville,501 - 1000 ,1995,Company - Private,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),0,0,IL,26,1,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,data analitics,na,M
+4.7,Columbia,Columbia,1001 - 5000 ,2002,Company - Private,Lending,Finance,Unknown / Non-Applicable,0,0,MO,19,0,1,0,1,1,0,0,0,0,0,1,1,0,0,1,0,na,na,na
+4.7,Austin,Austin,51 - 200 ,2010,Company - Private,Security Services,Business Services,$10 to $25 million (USD),0,0,TX,11,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,data engineer,sr,na
+3.4,Boston,London,1001 - 5000 ,1943,Company - Private,Consulting,Business Services,$100 to $500 million (USD),0,0,MA,78,0,1,0,1,1,0,0,0,0,0,1,1,0,0,1,0,data scientist,na,na
+3.8,Cambridge,Cambridge,501 - 1000 ,2008,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$50 to $100 million (USD),0,0,MA,13,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,other scientist,na,M
+2.7,Rockville,Rockville,201 - 500 ,1961,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$25 to $50 million (USD),0,0,MD,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,na
+3.1,Owensboro,Winston-Salem,5001 - 10000 ,1875,Company - Private,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),0,0,KY,146,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,na
+3.4,Chicago,Chicago,1001 - 5000 ,2005,Company - Public,Transportation Management,Transportation & Logistics,$2 to $5 billion (USD),0,0,IL,16,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data engineer,sr,na
+4,San Francisco,Mill Valley,1001 - 5000 ,2007,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,0,0,CA,14,1,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,data engineer,sr,na
+3.5,Redlands,Redlands,1001 - 5000 ,1969,Company - Private,Computer Hardware & Software,Information Technology,$1 to $2 billion (USD),0,0,CA,52,1,1,0,1,0,0,0,1,1,1,0,0,0,0,0,0,data scientist,na,M
+3.4,Westlake,New York,10000+ ,1978,Company - Public,Insurance Carriers,Insurance,$5 to $10 billion (USD),0,0,OH,43,0,0,0,1,1,0,0,1,0,1,0,0,0,0,0,0,data scientist,sr,na
+3.7,Peoria,Deerfield,10000+ ,1925,Company - Public,Industrial Manufacturing,Manufacturing,$10+ billion (USD),0,0,IL,96,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,data scientist,na,na
+4.3,Chicago,Chicago,1001 - 5000 ,1993,Company - Public,Real Estate,Real Estate,$2 to $5 billion (USD),0,0,IL,28,1,1,0,1,1,0,0,0,1,0,1,1,1,0,0,0,data scientist,sr,M
+3.7,Des Moines,Des Moines,201 - 500 ,2007,Subsidiary or Business Segment,Insurance Carriers,Insurance,$100 to $500 million (USD),0,0,IA,53.8,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,data engineer,sr,na
+3.8,Richland,Richland,1001 - 5000 ,1965,Government,Energy,Oil& Gas& Energy & Utilities,$500 million to $1 billion (USD),0,0,WA,56,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,data scientist,sr,M
+4.6,Cedar Rapids,Cedar Rapids,501 - 1000 ,1992,Company - Private,Lending,Finance,$100 to $500 million (USD),0,0,IA,29,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,analyst,na,na
+4.4,Cambridge,Cambridge,201 - 500 ,2003,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,0,0,MA,18,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,director,na,P
+3,Philadelphia,Philadelphia,5001 - 10000 ,1983,Company - Private,Insurance Carriers,Insurance,$5 to $10 billion (USD),0,0,PA,38,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,analyst,sr,M
+4.7,San Francisco,Los Angeles,51 - 200 ,2006,Company - Private,Staffing & Outsourcing,Business Services,$1 to $5 million (USD),0,0,CA,15,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,data engineer,sr,na
+3.2,Omaha,Englewood,10000+ ,1996,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$10+ billion (USD),1,0,NE,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,na
+2.7,Nashville,Peachtree Corners,5001 - 10000 ,2000,Company - Public,Financial Transaction Processing,Finance,$2 to $5 billion (USD),1,0,TN,21,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,analyst,sr,na
+3.3,Chicago,Boston,10000+ ,1912,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),0,0,IL,109,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,data scientist,na,P
+3.9,San Antonio,San Antonio,1001 - 5000 ,1947,Nonprofit Organization,Research & Development,Business Services,$500 million to $1 billion (USD),0,0,TX,74,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,other scientist,sr,na
+3.7,Austin,Austin,501 - 1000 ,2007,College / University,Colleges & Universities,Education,Unknown / Non-Applicable,0,0,TX,53.8,1,0,1,0,0,0,1,1,1,1,0,0,0,0,0,0,data scientist,na,na
+3.1,Winston-Salem,Winston-Salem,5001 - 10000 ,1875,Company - Private,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),0,0,NC,146,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,sr,M
+3.7,Huntsville,Waltham,10000+ ,1922,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),0,0,AL,99,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,analyst,na,na
+4.3,Durham,Research Triangle Park,1001 - 5000 ,1958,Nonprofit Organization,Research & Development,Business Services,$500 million to $1 billion (USD),0,0,NC,63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,sr,P
+3.6,Fort Lee,Fort Lee,1001 - 5000 ,1989,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable,0,0,NJ,32,1,0,1,1,1,0,0,0,0,0,0,1,1,0,0,0,data scientist,na,na
+2.1,Blue Bell,Blue Bell,1001 - 5000 ,2003,Other Organization,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD),0,0,PA,18,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,analyst,sr,na
+3.9,San Francisco,San Francisco,51 - 200 ,2008,Company - Public,Computer Hardware & Software,Information Technology,$10 to $25 million (USD),0,0,CA,13,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,data engineer,sr,na
+3.9,San Francisco,San Francisco,201 - 500 ,2007,Company - Private,Internet,Information Technology,$10 to $25 million (USD),0,0,CA,14,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data engineer,sr,na
+3.8,New York,New York,1001 - 5000 ,2002,Company - Private,Travel Agencies,Travel & Tourism,$2 to $5 billion (USD),0,0,NY,19,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,na
+3.1,Winston-Salem,Winston-Salem,5001 - 10000 ,1875,Company - Private,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),0,0,NC,146,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,sr,M
+3.5,Albuquerque,Gottingen,5001 - 10000 ,1870,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $2 billion (USD),0,0,NM,151,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,M
+4.7,Saint Louis,Saint Louis,51 - 200 ,2016,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,0,0,MO,5,1,1,0,0,1,0,1,0,1,1,0,0,0,0,0,0,data scientist,na,na
+5,Springfield,Arlington,51 - 200 ,2014,Company - Private,Aerospace & Defense,Aerospace & Defense,$10 to $25 million (USD),0,0,VA,7,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,data scientist,na,na
+3.6,Springfield,Springfield,5001 - 10000 ,1851,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),0,0,MA,170,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,data engineer,na,na
+3.8,Richland,Richland,1001 - 5000 ,1965,Government,Energy,Oil& Gas& Energy & Utilities,$500 million to $1 billion (USD),0,0,WA,56,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,P
+4.7,Salt Lake City,Salt Lake City,51 - 200 ,2013,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $5 million (USD),0,0,UT,8,1,0,1,0,0,0,1,1,1,1,0,0,0,0,0,0,data scientist,sr,na
+3.6,Jersey City,New York,10000+ ,1812,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD),0,0,NJ,209,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,na
+4.7,San Francisco,San Jose,501 - 1000 ,1999,Subsidiary or Business Segment,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,0,0,CA,22,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,machine learning engineer,sr,P
+3.5,San Francisco,San Francisco,51 - 200 ,2016,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,0,0,CA,5,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,P
+3.5,Arlington,Redlands,1001 - 5000 ,1969,Company - Private,Computer Hardware & Software,Information Technology,$1 to $2 billion (USD),0,0,VA,52,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,M
+3.3,Rochester,Rochester,10000+ ,2014,Hospital,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),0,0,NY,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,sr,P
+2.7,Emeryville,Nashville,10000+ ,2007,Company - Public,IT Services,Information Technology,Unknown / Non-Applicable,0,0,CA,14,1,1,1,0,1,0,1,1,0,1,0,0,0,0,0,0,data scientist,na,P
+3.4,Palo Alto,Palo Alto,501 - 1000 ,2008,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,0,0,CA,13,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,data scientist,na,M
+4.7,Santa Barbara,Santa Barbara,51 - 200 ,2010,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,0,0,CA,11,1,1,0,1,1,0,0,0,1,1,1,0,0,0,0,0,data scientist,na,P
+2.8,Carle Place,Carle Place,1001 - 5000 ,1976,Company - Public,Wholesale,Business Services,$1 to $2 billion (USD),0,0,NY,45,1,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,data scientist,na,na
+3.5,New York,San Francisco,1001 - 5000 ,1992,Subsidiary or Business Segment,TV Broadcast & Cable Networks,Media,$500 million to $1 billion (USD),0,0,NY,29,1,1,0,0,1,0,1,0,1,1,1,1,0,0,1,1,data scientist,na,na
+3.2,King of Prussia,Chadds Ford,Jan-50,2007,Company - Private,Staffing & Outsourcing,Business Services,$5 to $10 million (USD),0,0,PA,53.8,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,data engineer,na,na
+4.4,Cambridge,Cambridge,201 - 500 ,2013,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD),0,0,MA,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,sr,P
+3.3,San Francisco,San Francisco,201 - 500 ,2008,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable,0,0,CA,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,na
+4,Annapolis Junction,Annapolis Junction,51 - 200 ,2002,Company - Private,Computer Hardware & Software,Information Technology,$5 to $10 million (USD),0,0,MD,19,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,na,na,M
+3.4,West Palm Beach,West Palm Beach,201 - 500 ,1991,Company - Public,Telecommunications Manufacturing,Telecommunications,$50 to $100 million (USD),0,0,FL,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,analyst,na,M
+3.8,Austin,Redwood City,501 - 1000 ,2010,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,0,0,TX,11,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,data engineer,na,M
+3.5,Washington,Washington,1001 - 5000 ,2007,Company - Private,Research & Development,Business Services,Unknown / Non-Applicable,0,0,DC,14,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,data engineer,na,M
+4.4,Herndon,Pleasanton,Jan-50,2015,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,0,0,VA,6,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,data engineer,na,na
+3.7,Mountain View,Mountain View,1001 - 5000 ,1988,Subsidiary or Business Segment,Computer Hardware & Software,Information Technology,$50 to $100 million (USD),0,0,CA,33,1,1,1,0,1,0,0,0,0,0,1,0,0,1,1,0,data engineer,na,P
+4.7,Arlington,Woburn,201 - 500 ,2010,Company - Private,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),0,0,VA,11,1,1,0,1,1,0,0,1,1,1,1,0,0,0,0,0,data scientist,na,P
+4.1,Santa Clara,Santa Clara,501 - 1000 ,2012,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,0,0,CA,9,1,1,0,1,0,0,0,0,0,1,0,0,0,1,0,0,data scientist,na,P
+4,Santa Clara,Plainsboro,Jan-50,2007,Company - Private,Accounting,Accounting & Legal,Less than $1 million (USD),0,0,CA,53.8,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,na
+3.5,Charlotte,Charlotte,1001 - 5000 ,2017,Company - Public,Insurance Carriers,Insurance,Unknown / Non-Applicable,0,0,NC,4,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,sr,M
+2.5,Brisbane,Brisbane,Jan-50,2007,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,0,0,CA,53.8,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,P
+3.9,San Francisco,Baltimore,Jan-50,2007,Company - Private,IT Services,Information Technology,Less than $1 million (USD),0,0,CA,53.8,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,M
+3.4,Springfield,Reston,10000+ ,1969,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),0,0,VA,52,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,data scientist,na,M
+3.6,New York,Brea,10000+ ,1935,Subsidiary or Business Segment,Health Care Products Manufacturing,Manufacturing,$2 to $5 billion (USD),0,0,NY,86,0,0,1,1,1,0,0,0,0,0,0,1,1,0,0,0,analyst,na,na
+3.5,New York,London,10000+ ,2016,Company - Public,Consulting,Business Services,$2 to $5 billion (USD),0,0,NY,5,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,M
+2.9,San Jose,New York,51 - 200 ,1998,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable,0,0,CA,23,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,data engineer,na,M
+3.5,Foster City,Canton,51 - 200 ,2007,Company - Private,Health& Beauty& & Fitness,Consumer Services,$5 to $10 million (USD),0,0,CA,53.8,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,na
+4.8,New York,North Brunswick,Jan-50,2011,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,0,0,NY,10,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,data scientist,na,na
+4,New York,New York,201 - 500 ,2007,Company - Private,Lending,Finance,$100 to $500 million (USD),0,0,NY,14,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,na
+4.2,Holyoke,Holyoke,201 - 500 ,1885,Company - Private,Banks & Credit Unions,Finance,$50 to $100 million (USD),0,0,MA,136,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,M
+3.8,New York,Paris,10000+ ,1967,Company - Public,Enterprise Software & Network Solutions,Information Technology,$10+ billion (USD),0,0,NY,54,1,1,0,1,1,1,0,0,1,0,1,0,0,0,1,0,data scientist,na,M
+3.7,New York,New York,201 - 500 ,1914,Company - Private,Insurance Carriers,Insurance,$100 to $500 million (USD),0,0,NY,107,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,data engineer,na,M
+3.9,Exton,Exton,501 - 1000 ,1937,Nonprofit Organization,Banks & Credit Unions,Finance,Unknown / Non-Applicable,0,0,PA,84,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,analyst,na,na
+4.6,Waltham,Memphis,51 - 200 ,2007,Company - Private,Consulting,Business Services,$5 to $10 million (USD),0,0,MA,53.8,1,1,1,0,1,0,0,0,0,0,1,1,1,0,0,0,data scientist,na,M
+4.3,New York,New York,1001 - 5000 ,1999,Company - Public,Enterprise Software & Network Solutions,Information Technology,$500 million to $1 billion (USD),0,0,NY,22,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,data scientist,sr,M
+3.3,Rochester,Rochester,10000+ ,2014,Hospital,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),0,0,NY,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,sr,P
+3.7,Alexandria,Alexandria,501 - 1000 ,1989,Company - Private,IT Services,Information Technology,$100 to $500 million (USD),0,0,VA,32,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,analyst,na,na
+4,Corvallis,Palo Alto,10000+ ,1939,Company - Public,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,0,0,OR,82,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data engineer,na,M
+3.6,Boston,Springfield,5001 - 10000 ,1851,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),0,0,MA,170,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,director,na,na
+3.9,San Francisco,San Francisco,201 - 500 ,2007,Company - Private,Internet,Information Technology,$10 to $25 million (USD),0,0,CA,14,1,1,0,0,1,0,0,0,1,1,0,0,0,0,0,0,machine learning engineer,na,na
+3.7,San Diego,Falls Church,10000+ ,1939,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),0,0,CA,82,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,data scientist,na,na
+3.7,Bellevue,Foster City,10000+ ,1958,Company - Public,IT Services,Information Technology,$10+ billion (USD),0,0,WA,63,1,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,data scientist,sr,na
+3.9,New York,New York,201 - 500 ,2014,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,0,0,NY,7,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,data scientist,sr,M
+3.7,Chicago,Chicago,10000+ ,1928,Company - Public,Computer Hardware & Software,Information Technology,$5 to $10 billion (USD),0,0,IL,93,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,analyst,na,M
+4.1,Mountain View,Mountain View,51 - 200 ,2010,Company - Private,Internet,Information Technology,$50 to $100 million (USD),0,0,CA,11,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,data engineer,sr,na
+3.1,New York,New York,1001 - 5000 ,2006,School / School District,K-12 Education,Education,$100 to $500 million (USD),0,0,NY,15,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,analyst,na,na
+3.1,Owensboro,Winston-Salem,5001 - 10000 ,1875,Company - Private,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),0,0,KY,146,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,na
+3,Hartford,Bengaluru,10000+ ,1981,Company - Public,IT Services,Information Technology,$10+ billion (USD),0,0,CT,40,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,data analitics,na,na
+3.6,Springfield,Springfield,5001 - 10000 ,1851,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),0,0,MA,170,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Data scientist project manager,na,M
+3.6,New York,New York,Jan-50,1980,Company - Private,Health Care Services & Hospitals,Health Care,$10 to $25 million (USD),0,0,NY,41,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,analyst,na,na
+3.5,Orange,Orange,501 - 1000 ,2013,Company - Private,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,0,0,CA,8,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,data engineer,na,M
+4.2,New York,New York,51 - 200 ,2012,Company - Private,Education Training Services,Education,Unknown / Non-Applicable,0,0,NY,9,1,0,1,0,1,0,0,0,0,0,1,1,0,0,0,0,data scientist,na,na
+4,Fort Belvoir,Lorton,501 - 1000 ,1954,Company - Public,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),0,0,VA,67,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,machine learning engineer,na,na
+3.9,Gaithersburg,Cambridge,10000+ ,1913,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),0,0,MD,108,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,sr,P
+3.7,Silver Spring,Reston,201 - 500 ,2006,Company - Private,IT Services,Information Technology,$25 to $50 million (USD),0,0,MD,15,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,data scientist,na,M
+4.4,Palo Alto,Palo Alto,Jan-50,2012,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,0,0,CA,9,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data scientist,sr,M
+3.5,Marlborough,Marlborough,1001 - 5000 ,2010,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $2 billion (USD),0,0,MA,11,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,sr,P
+3.7,Lenexa,Chicago,501 - 1000 ,1973,Company - Public,Stock Exchanges,Finance,$500 million to $1 billion (USD),0,0,KS,48,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,machine learning engineer,na,na
+3.6,Highland,Highland,1001 - 5000 ,1986,Company - Private,Gambling,Arts& Entertainment & Recreation,$100 to $500 million (USD),0,0,CA,35,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,1,analyst,na,M
+3.4,Houston,Irvine,501 - 1000 ,2002,Company - Private,IT Services,Information Technology,$1 to $2 billion (USD),0,0,TX,19,1,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,data engineer,na,na
+4,Burleson,Arlington,1001 - 5000 ,1977,Hospital,Health Care Services & Hospitals,Health Care,$50 to $100 million (USD),1,0,TX,44,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,na
+2.4,Hoopeston,Flower Mound,501 - 1000 ,2007,Company - Private,Food & Beverage Manufacturing,Manufacturing,$100 to $500 million (USD),0,0,IL,53.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,na
+3.7,San Jose,Falls Church,10000+ ,1939,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),0,0,CA,82,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,sr,M
+3.5,Phoenix,Campbell,501 - 1000 ,1997,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,0,0,AZ,24,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data engineer,na,na
+4.4,New York,New York,1001 - 5000 ,2001,Company - Private,Investment Banking & Asset Management,Finance,Unknown / Non-Applicable,0,0,NY,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,P
+3.3,Boston,Boston,10000+ ,1912,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),0,0,MA,109,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,na
+3.9,Gaithersburg,Cambridge,10000+ ,1913,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),0,0,MD,108,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,sr,P
+3.2,Bedford,Bedford,5001 - 10000 ,1958,Nonprofit Organization,Federal Agencies,Government,$1 to $2 billion (USD),0,0,MA,63,1,0,0,1,1,1,0,0,0,0,0,1,0,0,1,0,data scientist,na,na
+3.2,New York,New York,501 - 1000 ,2003,Company - Private,Research & Development,Business Services,Unknown / Non-Applicable,0,0,NY,18,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,data engineer,na,na
+2.1,Concord,Concord,201 - 500 ,2007,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$25 to $50 million (USD),0,0,CA,53.8,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,P
+4,New York,New York,501 - 1000 ,2007,Company - Private,Consumer Product Rental,Consumer Services,Unknown / Non-Applicable,0,0,NY,14,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,na
+3.7,Cambridge,OSAKA,10000+ ,1781,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),0,0,MA,240,0,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,data engineer,na,M
+2.6,Pittsburgh,Pittsburgh,501 - 1000 ,1984,College / University,Colleges & Universities,Education,Unknown / Non-Applicable,0,0,PA,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,machine learning engineer,sr,P
+3.4,New York,Norwalk,201 - 500 ,2011,Company - Private,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,0,0,NY,10,1,1,1,0,1,0,0,0,0,0,0,1,0,0,0,0,data scientist,na,na
+4.4,Chicago,Chicago,201 - 500 ,2008,Company - Private,Consulting,Business Services,$50 to $100 million (USD),0,0,IL,13,1,0,1,1,1,0,0,0,0,0,1,1,0,0,0,0,data scientist,sr,na
+3.2,San Francisco,San Francisco,501 - 1000 ,2006,Subsidiary or Business Segment,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,0,0,CA,15,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,sr,na
+3.5,New York,New York,201 - 500 ,2005,Company - Public,Advertising & Marketing,Business Services,Unknown / Non-Applicable,0,0,NY,16,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,M
+3.7,Vail,Vail,501 - 1000 ,1966,Hospital,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),1,0,CO,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,na
+4.2,Charlotte,Chicago,201 - 500 ,2008,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,0,0,NC,13,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,data engineer,na,na
+4.2,Salt Lake City,Salt Lake City,10000+ ,2007,Nonprofit Organization,Religious Organizations,Non-Profit,Unknown / Non-Applicable,0,0,UT,53.8,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,analyst,na,na
+3.1,Aliso Viejo,Seoul,1001 - 5000 ,1997,Company - Public,Video Games,Media,$10+ billion (USD),0,0,CA,24,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,data engineer,na,na
+3.9,Cambridge,Brentford,10000+ ,1830,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),0,0,MA,191,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,M
+4.3,Los Angeles,Los Angeles,51 - 200 ,2008,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,0,0,CA,13,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,sr,na
+3.3,Dublin,Dublin,1001 - 5000 ,1988,Company - Public,Consulting,Business Services,$2 to $5 billion (USD),0,0,CA,33,0,0,0,1,1,1,0,0,0,0,0,1,0,0,1,0,analyst,na,M
+3.9,New York,New York,201 - 500 ,2010,Company - Private,Internet,Information Technology,$10 to $25 million (USD),0,0,NY,11,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,analyst,sr,na
+3.5,Scotts Valley,Scotts Valley,501 - 1000 ,1996,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),0,0,CA,25,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,Data scientist project manager,na,na
+4,San Jose,San Jose,10000+ ,1982,Company - Public,Computer Hardware & Software,Information Technology,$5 to $10 billion (USD),0,0,CA,39,1,0,0,1,1,0,0,0,0,0,1,1,1,0,0,0,data scientist,na,M
+3.9,New York,Cambridge,10000+ ,1913,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),0,0,NY,108,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,sr,P
+3,Knoxville,Knoxville,10000+ ,1958,Company - Private,Gas Stations,Retail,$10+ billion (USD),0,0,TN,63,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data engineer,sr,M
+3.7,Armonk,Zurich,10000+ ,1863,Company - Public,Insurance Agencies & Brokerages,Insurance,$10+ billion (USD),0,0,NY,158,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,M
+3.5,Arvada,Gottingen,5001 - 10000 ,1870,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $2 billion (USD),0,0,CO,151,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,sr,M
+4,Denver,Denver,501 - 1000 ,1915,Nonprofit Organization,Insurance Carriers,Insurance,$500 million to $1 billion (USD),0,0,CO,106,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,data engineer,na,M
+3.3,Milwaukee,Milwaukee,501 - 1000 ,1964,Company - Private,Food & Beverage Manufacturing,Manufacturing,Unknown / Non-Applicable,0,0,WI,57,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,na
+3.2,Franklin,Indianapolis,1001 - 5000 ,2004,Company - Private,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,0,0,TN,17,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,data engineer,sr,na
+3.4,Rockville,Reston,201 - 500 ,1999,Company - Private,IT Services,Information Technology,$25 to $50 million (USD),0,0,MD,22,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,data engineer,na,M
+4.4,Natick,Natick,1001 - 5000 ,1984,Company - Private,Computer Hardware & Software,Information Technology,$1 to $2 billion (USD),0,0,MA,37,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,data scientist,sr,M
+3.3,Chicago,Boston,10000+ ,1912,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),0,0,IL,109,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,data scientist,na,M
+3.2,New York,New York,1001 - 5000 ,1975,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,0,0,NY,46,1,0,1,1,1,0,0,1,0,1,0,0,0,0,0,0,machine learning engineer,na,M
+3.8,Cambridge,Basel,10000+ ,1996,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),0,0,MA,25,1,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,data scientist,sr,M
+2.9,South San Francisco,San Francisco,201 - 500 ,2012,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,0,0,CA,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,P
+2.7,Rockville,Rockville,201 - 500 ,1961,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$25 to $50 million (USD),0,0,MD,60,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,P
+3.6,Millville,Lewes,1001 - 5000 ,1935,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),1,0,DE,86,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,na
+3.1,Winston-Salem,Winston-Salem,5001 - 10000 ,1875,Company - Private,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),0,0,NC,146,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,na
+3.3,Richfield,Richfield,501 - 1000 ,1989,Company - Private,Insurance Carriers,Insurance,$500 million to $1 billion (USD),0,0,OH,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,analyst,na,na
+3.7,Worcester,Worcester,5001 - 10000 ,1852,Company - Public,Insurance Carriers,Insurance,$5 to $10 billion (USD),0,0,MA,169,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,analyst,na,na
+4.5,Indianapolis,Indianapolis,51 - 200 ,1996,Company - Private,Consulting,Business Services,$25 to $50 million (USD),0,0,IN,25,1,1,1,0,1,0,0,0,0,0,1,0,0,0,1,0,data engineer,sr,na
+3,Tampa,Tampa,1001 - 5000 ,1977,Subsidiary or Business Segment,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),0,0,FL,44,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,analyst,na,M
+3.8,New York,New York,1001 - 5000 ,2002,Company - Private,Travel Agencies,Travel & Tourism,$2 to $5 billion (USD),0,0,NY,19,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,1,analyst,na,M
+3.9,Chicago,Chicago,5001 - 10000 ,1968,Company - Public,Financial Analytics & Research,Finance,$1 to $2 billion (USD),0,0,IL,53,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,data scientist,sr,na
+3.2,Hampton,Bedford,5001 - 10000 ,1958,Nonprofit Organization,Federal Agencies,Government,$1 to $2 billion (USD),0,0,VA,63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,sr,P
+3.3,Cambridge,Cambridge,Jan-50,1976,Company - Private,Construction,Construction& Repair & Maintenance,Unknown / Non-Applicable,1,1,MA,45,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,na
+3.1,Winston-Salem,Winston-Salem,5001 - 10000 ,1875,Company - Private,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),0,0,NC,146,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,sr,M
+2.4,San Diego,San Diego,501 - 1000 ,2006,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$50 to $100 million (USD),0,0,CA,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,M
+2.9,Ithaca,Morrisville,1001 - 5000 ,2015,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,0,0,NY,6,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,na
+4.8,San Francisco,San Francisco,51 - 200 ,2011,Company - Private,Computer Hardware & Software,Information Technology,$25 to $50 million (USD),0,0,CA,10,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,Data scientist project manager,na,na
+2.9,Marietta,Morrisville,1001 - 5000 ,2015,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,0,0,GA,6,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,sr,na
+4.7,Atlanta,Atlanta,51 - 200 ,2003,Company - Private,Computer Hardware & Software,Information Technology,$25 to $50 million (USD),0,0,GA,18,1,0,0,1,1,0,1,1,1,0,0,0,0,0,0,0,data scientist,na,na
+4.7,Mountain View,Mountain View,501 - 1000 ,2014,Company - Private,Computer Hardware & Software,Information Technology,$100 to $500 million (USD),0,0,CA,7,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,data scientist,na,na
+3.4,Quincy,Quincy,1001 - 5000 ,1988,Company - Private,Insurance Carriers,Insurance,$100 to $500 million (USD),0,0,MA,33,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,data engineer,na,na
+3.9,San Francisco,San Francisco,51 - 200 ,2008,Company - Public,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,0,0,CA,13,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,analyst,sr,na
+3.6,Plymouth Meeting,Durham,10000+ ,2017,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$2 to $5 billion (USD),0,0,PA,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,sr,M
+3.6,Boston,Springfield,5001 - 10000 ,1851,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),0,0,MA,170,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,M
+4.4,Nashville,San Francisco,1001 - 5000 ,2006,Company - Public,Internet,Information Technology,$100 to $500 million (USD),0,0,TN,15,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,data engineer,sr,na
+2.6,Pittsburgh,Pittsburgh,501 - 1000 ,1984,College / University,Colleges & Universities,Education,Unknown / Non-Applicable,0,0,PA,37,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,P
+3.6,Beavercreek,Arlington,501 - 1000 ,1967,Nonprofit Organization,Federal Agencies,Government,$50 to $100 million (USD),0,0,OH,54,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,M
+3.2,Allentown,Chadds Ford,Jan-50,2007,Company - Private,Staffing & Outsourcing,Business Services,$5 to $10 million (USD),0,0,PA,53.8,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,na
+4.2,Salt Lake City,Salt Lake City,10000+ ,2007,Nonprofit Organization,Religious Organizations,Non-Profit,Unknown / Non-Applicable,0,0,UT,53.8,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,analyst,na,na
+3.6,Boston,Springfield,5001 - 10000 ,1851,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),0,0,MA,170,1,1,1,1,1,0,0,0,0,0,1,1,1,0,0,0,na,na,na
+3.1,Logan,Logan,1001 - 5000 ,1977,Company - Private,Consumer Products Manufacturing,Manufacturing,$500 million to $1 billion (USD),0,0,UT,44,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,analyst,na,na
+3.8,Birmingham,Birmingham,501 - 1000 ,2014,Subsidiary or Business Segment,Consumer Product Rental,Consumer Services,Unknown / Non-Applicable,0,0,AL,7,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,data engineer,na,na
+3.8,Green Bay,Green Bay,1001 - 5000 ,1870,Company - Public,Banks & Credit Unions,Finance,$1 to $2 billion (USD),0,0,WI,151,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,analyst,na,na
+4,New York,New York,10000+ ,1849,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),0,0,NY,172,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,sr,M
+3.8,New York,New York,1001 - 5000 ,2002,Company - Private,Travel Agencies,Travel & Tourism,$2 to $5 billion (USD),0,0,NY,19,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,analyst,na,na
+4,Herndon,Mc Lean,501 - 1000 ,2012,Company - Private,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),0,0,VA,9,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,analyst,sr,na
+1.9,New York,New York,201 - 500 ,2010,Company - Private,Department& Clothing& & Shoe Stores,Retail,$100 to $500 million (USD),0,0,NY,11,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,analyst,sr,na
+4,Reston,Mc Lean,501 - 1000 ,2012,Company - Private,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),0,0,VA,9,1,1,1,0,1,0,0,0,0,0,1,0,0,1,0,0,data engineer,sr,na
+4.3,Durham,Daly City,5001 - 10000 ,1990,Company - Private,Computer Hardware & Software,Information Technology,$1 to $2 billion (USD),0,0,NC,31,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,0,data engineer,sr,na
+3.6,Boston,Springfield,5001 - 10000 ,1851,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),0,0,MA,170,0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,data modeler,na,na
+3.3,Indianapolis,Boston,10000+ ,1912,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),0,0,IN,109,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,data modeler,na,M
+3.8,Cambridge,Basel,10000+ ,1996,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),0,0,MA,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,na
+4.3,New York,New York,201 - 500 ,2011,Company - Private,Consulting,Business Services,$10 to $25 million (USD),0,0,NY,10,1,1,1,0,1,0,0,0,0,0,1,1,0,0,0,0,data scientist,na,na
+3.2,Phila,Chadds Ford,Jan-50,2007,Company - Private,Staffing & Outsourcing,Business Services,$5 to $10 million (USD),0,0,PA,53.8,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,Data scientist project manager,na,M
+4.7,Clovis,Visalia,51 - 200 ,1972,Company - Private,Architectural & Engineering Services,Business Services,$10 to $25 million (USD),0,0,CA,49,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,na
+3.4,Chandler,Franklin,501 - 1000 ,1981,Company - Public,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,0,0,AZ,40,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,data engineer,sr,na
+3.8,Cambridge,Basel,10000+ ,1996,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),0,0,MA,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,sr,na
+4.5,San Francisco,San Francisco,201 - 500 ,2006,Company - Private,Computer Hardware & Software,Information Technology,$100 to $500 million (USD),0,0,CA,15,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,analyst,sr,na
+3.1,Boston,Madrid,10000+ ,1856,Company - Private,Banks & Credit Unions,Finance,$10+ billion (USD),0,0,MA,165,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,data scientist,na,M
+3.9,Orlando,Orlando,201 - 500 ,2012,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,0,0,FL,9,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,sr,M
+4.4,Chantilly,Washington,51 - 200 ,2004,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,0,0,VA,17,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,data engineer,na,na
+3.4,Scottsdale,Chandler,501 - 1000 ,2002,Company - Private,IT Services,Information Technology,$50 to $100 million (USD),0,0,AZ,19,1,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,data engineer,na,na
+3.9,Burbank,Burbank,51 - 200 ,2009,Company - Private,Financial Analytics & Research,Finance,$50 to $100 million (USD),0,0,CA,12,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,data scientist,sr,M
+3.3,Chantilly,Herndon,1001 - 5000 ,2017,Company - Private,Aerospace & Defense,Aerospace & Defense,$1 to $2 billion (USD),0,0,VA,4,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,data engineer,na,na
+3.9,Chicago,Jacksonville,501 - 1000 ,1995,Company - Private,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),0,0,IL,26,1,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,data analitics,na,M
+3.4,Boston,London,1001 - 5000 ,1943,Company - Private,Consulting,Business Services,$100 to $500 million (USD),0,0,MA,78,0,1,0,1,1,0,0,0,0,0,1,1,0,0,1,0,data scientist,na,na
+4.7,Austin,Austin,51 - 200 ,2010,Company - Private,Security Services,Business Services,$10 to $25 million (USD),0,0,TX,11,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,data engineer,sr,na
+2.7,Rockville,Rockville,201 - 500 ,1961,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$25 to $50 million (USD),0,0,MD,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,na
+3.8,Bloomington,Bloomington,1001 - 5000 ,1925,Company - Private,Insurance Carriers,Insurance,$2 to $5 billion (USD),0,0,IL,96,1,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,data engineer,na,M
+3.4,Chicago,Chicago,1001 - 5000 ,2005,Company - Public,Transportation Management,Transportation & Logistics,$2 to $5 billion (USD),0,0,IL,16,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data engineer,sr,na
+3.8,Cambridge,Cambridge,501 - 1000 ,2008,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$50 to $100 million (USD),0,0,MA,13,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,other scientist,na,M
+3.9,San Francisco,San Francisco,201 - 500 ,2007,Company - Private,Internet,Information Technology,$10 to $25 million (USD),0,0,CA,14,1,1,0,0,1,0,0,0,1,1,0,0,0,0,0,0,data scientist,na,na
+3.1,Owensboro,Winston-Salem,5001 - 10000 ,1875,Company - Private,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),0,0,KY,146,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,na
+4.1,Fremont,Wilsonville,5001 - 10000 ,1981,Company - Public,Computer Hardware & Software,Information Technology,$1 to $2 billion (USD),0,0,CA,40,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,data scientist,na,na
+3.7,Springfield,Westminster,5001 - 10000 ,2007,Company - Public,Aerospace & Defense,Aerospace & Defense,$2 to $5 billion (USD),0,0,VA,53.8,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,data engineer,na,na
+2.8,San Diego,San Diego,501 - 1000 ,1972,Company - Private,Insurance Carriers,Insurance,$500 million to $1 billion (USD),0,0,CA,49,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,data engineer,na,na
+4,San Francisco,Mill Valley,1001 - 5000 ,2007,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,0,0,CA,14,1,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,data engineer,sr,na
+3.5,Redlands,Redlands,1001 - 5000 ,1969,Company - Private,Computer Hardware & Software,Information Technology,$1 to $2 billion (USD),0,0,CA,52,1,1,0,1,0,0,0,1,1,1,0,0,0,0,0,0,data scientist,na,M
+3.4,Westlake,New York,10000+ ,1978,Company - Public,Insurance Carriers,Insurance,$5 to $10 billion (USD),0,0,OH,43,0,0,0,1,1,0,0,1,0,1,0,0,0,0,0,0,data scientist,sr,na
+3.7,Des Moines,Des Moines,201 - 500 ,2007,Subsidiary or Business Segment,Insurance Carriers,Insurance,$100 to $500 million (USD),0,0,IA,53.8,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,data engineer,sr,na
+3,Alameda,Alameda,501 - 1000 ,1994,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,0,0,CA,27,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,M
+3.8,Richland,Richland,1001 - 5000 ,1965,Government,Energy,Oil& Gas& Energy & Utilities,$500 million to $1 billion (USD),0,0,WA,56,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,data scientist,sr,M
+4.6,Cedar Rapids,Cedar Rapids,501 - 1000 ,1992,Company - Private,Lending,Finance,$100 to $500 million (USD),0,0,IA,29,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,analyst,na,na
+4.4,Cambridge,Cambridge,201 - 500 ,2003,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,0,0,MA,18,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,director,na,P
+4,Cambridge,New York,10000+ ,1849,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),0,0,MA,172,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,director,na,P
+3,Alameda,Alameda,501 - 1000 ,1994,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,0,0,CA,27,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,sr,P
+4.7,San Francisco,Los Angeles,51 - 200 ,2006,Company - Private,Staffing & Outsourcing,Business Services,$1 to $5 million (USD),0,0,CA,15,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,data engineer,sr,na
+4.2,San Francisco,San Francisco,501 - 1000 ,2011,Company - Private,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,0,0,CA,10,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,na
+3.8,Seattle,Richland,1001 - 5000 ,1965,Government,Energy,Oil& Gas& Energy & Utilities,$500 million to $1 billion (USD),0,0,WA,56,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,data scientist,sr,M
+3.5,Chicago,Chicago,201 - 500 ,1995,Company - Private,Consulting,Business Services,$50 to $100 million (USD),0,0,IL,26,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data engineer,na,M
+3.2,Omaha,Englewood,10000+ ,1996,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$10+ billion (USD),1,0,NE,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,na
+2.7,Nashville,Peachtree Corners,5001 - 10000 ,2000,Company - Public,Financial Transaction Processing,Finance,$2 to $5 billion (USD),1,0,TN,21,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,analyst,sr,na
+3.3,Jersey City,New York,1001 - 5000 ,1973,Company - Private,Brokerage Services,Finance,$1 to $2 billion (USD),0,0,NJ,48,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,analyst,sr,na
+3.7,Austin,Austin,501 - 1000 ,2007,College / University,Colleges & Universities,Education,Unknown / Non-Applicable,0,0,TX,53.8,1,0,1,0,0,0,1,1,1,1,0,0,0,0,0,0,data scientist,na,na
+3.9,San Antonio,San Antonio,1001 - 5000 ,1947,Nonprofit Organization,Research & Development,Business Services,$500 million to $1 billion (USD),0,0,TX,74,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,other scientist,sr,na
+3.1,Winston-Salem,Winston-Salem,5001 - 10000 ,1875,Company - Private,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),0,0,NC,146,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,sr,M
+3.7,Huntsville,Waltham,10000+ ,1922,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),0,0,AL,99,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,analyst,na,na
+4.3,Durham,Research Triangle Park,1001 - 5000 ,1958,Nonprofit Organization,Research & Development,Business Services,$500 million to $1 billion (USD),0,0,NC,63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,sr,P
+3.8,Coraopolis,Coraopolis,10000+ ,1948,Company - Public,Sporting Goods Stores,Retail,$5 to $10 billion (USD),0,0,PA,73,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,data scientist,na,M
+3.9,Gaithersburg,Cambridge,10000+ ,1913,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),0,0,MD,108,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,sr,P
+3.6,Fort Lee,Fort Lee,1001 - 5000 ,1989,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable,0,0,NJ,32,1,0,1,1,1,0,0,0,0,0,0,1,1,0,0,0,data scientist,na,na
+3.7,Roanoke,Roanoke,10000+ ,1899,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$1 to $2 billion (USD),0,0,VA,122,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,data engineer,na,M
+2.1,Blue Bell,Blue Bell,1001 - 5000 ,2003,Other Organization,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD),0,0,PA,18,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,analyst,sr,na
+3.9,San Francisco,San Francisco,51 - 200 ,2008,Company - Public,Computer Hardware & Software,Information Technology,$10 to $25 million (USD),0,0,CA,13,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,data engineer,sr,na
+3.9,San Francisco,San Francisco,201 - 500 ,2007,Company - Private,Internet,Information Technology,$10 to $25 million (USD),0,0,CA,14,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data engineer,sr,na
+3.2,New York,New York,201 - 500 ,2008,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,0,0,NY,13,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,analyst,sr,na
+4.6,Cambridge,Cambridge,51 - 200 ,1991,Subsidiary or Business Segment,Research & Development,Business Services,$5 to $10 million (USD),0,0,MA,30,0,0,1,1,0,0,0,1,0,1,0,0,0,0,0,0,other scientist,sr,P
+3.8,New York,New York,1001 - 5000 ,2002,Company - Private,Travel Agencies,Travel & Tourism,$2 to $5 billion (USD),0,0,NY,19,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,na
+2.2,San Francisco,San Francisco,501 - 1000 ,2002,Company - Private,Beauty & Personal Accessories Stores,Retail,Unknown / Non-Applicable,0,0,CA,19,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,analyst,na,na
+3.1,Winston-Salem,Winston-Salem,5001 - 10000 ,1875,Company - Private,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),0,0,NC,146,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,sr,M
+4.6,Cambridge,Cambridge,51 - 200 ,1991,Subsidiary or Business Segment,Research & Development,Business Services,$5 to $10 million (USD),0,0,MA,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,sr,P
+2.6,Pittsburgh,Pittsburgh,501 - 1000 ,1984,College / University,Colleges & Universities,Education,Unknown / Non-Applicable,0,0,PA,37,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,machine learning engineer,na,P
+3.4,Seattle,Seattle,501 - 1000 ,1979,Nonprofit Organization,Social Assistance,Non-Profit,$25 to $50 million (USD),0,0,WA,42,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,analyst,na,na
+3.3,Glen Burnie,Baltimore,1001 - 5000 ,1889,Company - Private,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),0,0,MD,132,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,analyst,sr,M
+3.7,Philadelphia,Phila,201 - 500 ,1994,Company - Private,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),0,0,PA,27,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,analyst,sr,na
+2.7,Rockville,Rockville,201 - 500 ,1961,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$25 to $50 million (USD),0,0,MD,60,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,na
+3.8,Watertown,Watertown,51 - 200 ,2008,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10 to $25 million (USD),1,0,MA,13,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,na
+3.7,Cambridge,Waltham,10000+ ,1922,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),0,0,MD,99,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,na
+3.8,Cambridge,Cambridge,501 - 1000 ,2008,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$50 to $100 million (USD),0,0,MA,13,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Data scientist project manager,na,na
+3.3,Boston,Boston,10000+ ,1912,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),0,0,MA,109,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,M
+2.7,Los Angeles,Los Angeles,Jan-50,2011,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,0,0,CA,10,0,1,1,0,0,0,0,0,0,0,1,0,0,1,0,0,data engineer,sr,na
+3.8,Richland,Richland,1001 - 5000 ,1965,Government,Energy,Oil& Gas& Energy & Utilities,$500 million to $1 billion (USD),0,0,WA,56,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,data scientist,na,M
+3,Hartford,Bengaluru,10000+ ,1981,Company - Public,IT Services,Information Technology,$10+ billion (USD),0,0,CT,40,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,data analitics,na,na
+3.9,Gaithersburg,Cambridge,10000+ ,1913,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),0,0,MD,108,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,na
+3.6,New York,New York,Jan-50,1980,Company - Private,Health Care Services & Hospitals,Health Care,$10 to $25 million (USD),0,0,NY,41,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,analyst,na,na
+3.5,Orange,Orange,501 - 1000 ,2013,Company - Private,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,0,0,CA,8,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,data engineer,na,M
+3.6,Fort Lee,Fort Lee,1001 - 5000 ,1989,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable,0,0,NJ,32,1,0,1,1,1,0,0,0,0,0,1,1,1,0,0,0,data scientist,na,na
+4.2,New York,New York,51 - 200 ,2012,Company - Private,Education Training Services,Education,Unknown / Non-Applicable,0,0,NY,9,1,0,1,0,1,0,0,0,0,0,1,1,0,0,0,0,data scientist,na,na
+3.5,Maryland Heights,North Salt Lake,Jan-50,2007,School / School District,K-12 Education,Education,$5 to $10 million (USD),0,0,MO,53.8,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,data scientist,na,P
+4,Fort Belvoir,Lorton,501 - 1000 ,1954,Company - Public,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),0,0,VA,67,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,machine learning engineer,na,na
+3.7,Silver Spring,Reston,201 - 500 ,2006,Company - Private,IT Services,Information Technology,$25 to $50 million (USD),0,0,MD,15,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,data scientist,na,M
+4.4,Palo Alto,Palo Alto,Jan-50,2012,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,0,0,CA,9,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data scientist,sr,M
+3.5,Marlborough,Marlborough,1001 - 5000 ,2010,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $2 billion (USD),0,0,MA,11,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,sr,P
+3.6,Highland,Highland,1001 - 5000 ,1986,Company - Private,Gambling,Arts& Entertainment & Recreation,$100 to $500 million (USD),0,0,CA,35,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,1,analyst,na,M
+3.7,Lenexa,Chicago,501 - 1000 ,1973,Company - Public,Stock Exchanges,Finance,$500 million to $1 billion (USD),0,0,KS,48,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,machine learning engineer,na,na
+3.4,Houston,Irvine,501 - 1000 ,2002,Company - Private,IT Services,Information Technology,$1 to $2 billion (USD),0,0,TX,19,1,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,data engineer,na,na
+4,Burleson,Arlington,1001 - 5000 ,1977,Hospital,Health Care Services & Hospitals,Health Care,$50 to $100 million (USD),1,0,TX,44,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,na
+3.7,San Jose,Falls Church,10000+ ,1939,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),0,0,CA,82,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,sr,M
+2.4,Hoopeston,Flower Mound,501 - 1000 ,2007,Company - Private,Food & Beverage Manufacturing,Manufacturing,$100 to $500 million (USD),0,0,IL,53.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,na
+3.5,Phoenix,Campbell,501 - 1000 ,1997,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,0,0,AZ,24,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data engineer,na,na
+3.9,Gaithersburg,Cambridge,10000+ ,1913,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),0,0,MD,108,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,sr,P
+3.2,Bedford,Bedford,5001 - 10000 ,1958,Nonprofit Organization,Federal Agencies,Government,$1 to $2 billion (USD),0,0,MA,63,1,0,0,1,1,1,0,0,0,0,0,1,0,0,1,0,data scientist,na,na
+4.4,Cincinnati,Cincinnati,201 - 500 ,1885,Subsidiary or Business Segment,Metals Brokers,Mining & Metals,Unknown / Non-Applicable,0,0,OH,136,1,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0,data scientist,sr,M
+3.9,Charlottesville,Reston,501 - 1000 ,2010,Company - Private,IT Services,Information Technology,$100 to $500 million (USD),0,0,VA,11,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,data scientist,sr,M
+3.4,Washington,Houston,51 - 200 ,1997,Company - Private,Consulting,Business Services,$10 to $25 million (USD),0,0,DC,24,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,data scientist,na,M
+2.1,Concord,Concord,201 - 500 ,2007,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$25 to $50 million (USD),0,0,CA,53.8,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,P
+3.7,Cambridge,OSAKA,10000+ ,1781,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),0,0,MA,240,0,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,data engineer,na,M
+3.4,New York,Norwalk,201 - 500 ,2011,Company - Private,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,0,0,NY,10,1,1,1,0,1,0,0,0,0,0,0,1,0,0,0,0,data scientist,na,na
+4,New York,New York,501 - 1000 ,2007,Company - Private,Consumer Product Rental,Consumer Services,Unknown / Non-Applicable,0,0,NY,14,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,na
+4.4,Chicago,Chicago,201 - 500 ,2008,Company - Private,Consulting,Business Services,$50 to $100 million (USD),0,0,IL,13,1,0,1,1,1,0,0,0,0,0,1,1,0,0,0,0,data scientist,sr,na
+2.6,Pittsburgh,Pittsburgh,501 - 1000 ,1984,College / University,Colleges & Universities,Education,Unknown / Non-Applicable,0,0,PA,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,machine learning engineer,sr,P
+3.2,San Francisco,San Francisco,501 - 1000 ,2006,Subsidiary or Business Segment,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,0,0,CA,15,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,sr,na
+3.7,Vail,Vail,501 - 1000 ,1966,Hospital,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),1,0,CO,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,na
+4.2,Salt Lake City,Salt Lake City,10000+ ,2007,Nonprofit Organization,Religious Organizations,Non-Profit,Unknown / Non-Applicable,0,0,UT,53.8,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,analyst,na,na
+3.5,New York,New York,201 - 500 ,2005,Company - Public,Advertising & Marketing,Business Services,Unknown / Non-Applicable,0,0,NY,16,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,M
+4.3,Phoenix,Brea,201 - 500 ,1969,Company - Private,IT Services,Information Technology,$50 to $100 million (USD),0,0,AZ,52,1,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,data scientist,na,na
+2.6,Irvine,Irvine,10000+ ,1997,Company - Private,Colleges & Universities,Education,Unknown / Non-Applicable,0,0,CA,24,1,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,data scientist,na,M
+4.2,Charlotte,Chicago,201 - 500 ,2008,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,0,0,NC,13,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,data engineer,na,na
+3.1,Aliso Viejo,Seoul,1001 - 5000 ,1997,Company - Public,Video Games,Media,$10+ billion (USD),0,0,CA,24,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,data engineer,na,na
+3.8,San Francisco,Paris,201 - 500 ,2005,Subsidiary or Business Segment,Consumer Products Manufacturing,Manufacturing,$25 to $50 million (USD),0,0,CA,16,1,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0,data scientist,na,M
+3.9,Cambridge,Brentford,10000+ ,1830,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),0,0,MA,191,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,M
+4.3,Los Angeles,Los Angeles,51 - 200 ,2008,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,0,0,CA,13,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,sr,na
+3.2,McLean,Bedford,5001 - 10000 ,1958,Nonprofit Organization,Federal Agencies,Government,$1 to $2 billion (USD),0,0,VA,63,1,1,0,1,1,1,0,0,0,0,1,1,0,0,0,0,data scientist,jr,na
+5,Ann Arbor,Ann Arbor,51 - 200 ,2011,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,0,1,MI,10,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,sr,M
+3.3,Dublin,Dublin,1001 - 5000 ,1988,Company - Public,Consulting,Business Services,$2 to $5 billion (USD),0,0,CA,33,0,0,0,1,1,1,0,0,0,0,0,1,0,0,1,0,analyst,na,M
+4.3,New York,New York,1001 - 5000 ,1999,Company - Public,Enterprise Software & Network Solutions,Information Technology,$500 million to $1 billion (USD),0,0,NY,22,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,data modeler,na,M
+3.5,Scotts Valley,Scotts Valley,501 - 1000 ,1996,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),0,0,CA,25,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,Data scientist project manager,na,na
+3.9,New York,New York,201 - 500 ,2010,Company - Private,Internet,Information Technology,$10 to $25 million (USD),0,0,NY,11,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,analyst,sr,na
+4,San Jose,San Jose,10000+ ,1982,Company - Public,Computer Hardware & Software,Information Technology,$5 to $10 billion (USD),0,0,CA,39,1,0,0,1,1,0,0,0,0,0,1,1,1,0,0,0,data scientist,na,M
+3.9,Gaithersburg,Cambridge,10000+ ,1913,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),0,0,MD,108,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,sr,P
+3.4,Olympia,Centennial,51 - 200 ,2007,Company - Private,IT Services,Information Technology,$5 to $10 million (USD),0,0,WA,53.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,na
+3,Knoxville,Knoxville,10000+ ,1958,Company - Private,Gas Stations,Retail,$10+ billion (USD),0,0,TN,63,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data engineer,sr,M
+3.9,New York,Cambridge,10000+ ,1913,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),0,0,NY,108,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,sr,P
+4,Denver,Denver,501 - 1000 ,1915,Nonprofit Organization,Insurance Carriers,Insurance,$500 million to $1 billion (USD),0,0,CO,106,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,data engineer,na,M
+3.3,Milwaukee,Milwaukee,501 - 1000 ,1964,Company - Private,Food & Beverage Manufacturing,Manufacturing,Unknown / Non-Applicable,0,0,WI,57,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,na
+3.2,Franklin,Indianapolis,1001 - 5000 ,2004,Company - Private,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,0,0,TN,17,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,data engineer,sr,na
+3.4,Rockville,Reston,201 - 500 ,1999,Company - Private,IT Services,Information Technology,$25 to $50 million (USD),0,0,MD,22,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,data engineer,na,M
+4.4,Natick,Natick,1001 - 5000 ,1984,Company - Private,Computer Hardware & Software,Information Technology,$1 to $2 billion (USD),0,0,MA,37,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,data scientist,sr,M
+3.3,Chicago,Boston,10000+ ,1912,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),0,0,IL,109,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,data scientist,na,M
+3.2,New York,New York,1001 - 5000 ,1975,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,0,0,NY,46,1,0,1,1,1,0,0,1,0,1,0,0,0,0,0,0,machine learning engineer,na,M
+3.8,Cambridge,Basel,10000+ ,1996,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),0,0,MA,25,1,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,data scientist,sr,M
+3.6,Millville,Lewes,1001 - 5000 ,1935,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),1,0,DE,86,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,na
+2.9,South San Francisco,San Francisco,201 - 500 ,2012,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,0,0,CA,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,P
+2.7,Rockville,Rockville,201 - 500 ,1961,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$25 to $50 million (USD),0,0,MD,60,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,P
+3.2,Philadelphia,Chadds Ford,Jan-50,2007,Company - Private,Staffing & Outsourcing,Business Services,$5 to $10 million (USD),0,0,PA,53.8,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,data scientist,na,na
+3.1,Winston-Salem,Winston-Salem,5001 - 10000 ,1875,Company - Private,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),0,0,NC,146,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,na
+4,South San Francisco,Sunnyvale,501 - 1000 ,2006,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,0,0,CA,15,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,sr,M
+3.3,Richfield,Richfield,501 - 1000 ,1989,Company - Private,Insurance Carriers,Insurance,$500 million to $1 billion (USD),0,0,OH,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,analyst,na,na
+4.5,Indianapolis,Indianapolis,51 - 200 ,1996,Company - Private,Consulting,Business Services,$25 to $50 million (USD),0,0,IN,25,1,1,1,0,1,0,0,0,0,0,1,0,0,0,1,0,data engineer,sr,na
+3,Tampa,Tampa,1001 - 5000 ,1977,Subsidiary or Business Segment,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),0,0,FL,44,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,analyst,na,M
+3.7,Worcester,Worcester,5001 - 10000 ,1852,Company - Public,Insurance Carriers,Insurance,$5 to $10 billion (USD),0,0,MA,169,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,analyst,na,na
+3.8,New York,New York,1001 - 5000 ,2002,Company - Private,Travel Agencies,Travel & Tourism,$2 to $5 billion (USD),0,0,NY,19,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,1,analyst,na,M
+3.9,Chicago,Chicago,5001 - 10000 ,1968,Company - Public,Financial Analytics & Research,Finance,$1 to $2 billion (USD),0,0,IL,53,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,data scientist,sr,na
+3.2,Hampton,Bedford,5001 - 10000 ,1958,Nonprofit Organization,Federal Agencies,Government,$1 to $2 billion (USD),0,0,VA,63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,sr,P
+3.3,Cambridge,Cambridge,Jan-50,1976,Company - Private,Construction,Construction& Repair & Maintenance,Unknown / Non-Applicable,1,1,MA,45,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,na
+3.1,Winston-Salem,Winston-Salem,5001 - 10000 ,1875,Company - Private,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),0,0,NC,146,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,sr,M
+2.4,San Diego,San Diego,501 - 1000 ,2006,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$50 to $100 million (USD),0,0,CA,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,M
+4.8,San Francisco,San Francisco,51 - 200 ,2011,Company - Private,Computer Hardware & Software,Information Technology,$25 to $50 million (USD),0,0,CA,10,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,Data scientist project manager,na,na
+2.9,Marietta,Morrisville,1001 - 5000 ,2015,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,0,0,GA,6,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,sr,na
+2.9,Ithaca,Morrisville,1001 - 5000 ,2015,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,0,0,NY,6,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,na
+3.4,Quincy,Quincy,1001 - 5000 ,1988,Company - Private,Insurance Carriers,Insurance,$100 to $500 million (USD),0,0,MA,33,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,data engineer,na,na
+4.1,Palo Alto,Palo Alto,Jan-50,2007,Company - Private,K-12 Education,Education,Unknown / Non-Applicable,0,0,CA,14,1,0,1,1,0,0,0,1,0,1,0,0,0,0,0,0,machine learning engineer,na,na
+3.6,Boston,Springfield,5001 - 10000 ,1851,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),0,0,MA,170,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,M
+3.9,San Francisco,San Francisco,201 - 500 ,2011,Company - Private,Internet,Information Technology,$100 to $500 million (USD),0,0,CA,10,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,data engineer,na,P
+3.6,Plymouth Meeting,Durham,10000+ ,2017,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$2 to $5 billion (USD),0,0,PA,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,sr,M
+3.9,Cambridge,Brentford,10000+ ,1830,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),0,0,MA,191,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,sr,M
+4.4,Nashville,San Francisco,1001 - 5000 ,2006,Company - Public,Internet,Information Technology,$100 to $500 million (USD),0,0,TN,15,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,data engineer,sr,na
+2.6,Pittsburgh,Pittsburgh,501 - 1000 ,1984,College / University,Colleges & Universities,Education,Unknown / Non-Applicable,0,0,PA,37,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,other scientist,na,P
+3.2,Allentown,Chadds Ford,Jan-50,2007,Company - Private,Staffing & Outsourcing,Business Services,$5 to $10 million (USD),0,0,PA,53.8,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,data scientist,na,na
